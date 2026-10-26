@@ -1,0 +1,32 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_the_recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "susarchy:flint_brush"
+      }
+    },
+    "has_stone_brush": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "susarchy:stone_brush"
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "has_the_recipe",
+      "has_stone_brush"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "susarchy:flint_brush"
+    ]
+  }
+}

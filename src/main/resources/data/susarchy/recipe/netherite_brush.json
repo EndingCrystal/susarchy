@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "group": "sus_brushes",
+  "pattern": [
+    "MMM",
+    "MBM",
+    "MMM"
+  ],
+  "key": {
+    "M": {
+      "item": "minecraft:netherite_ingot"
+    },
+    "B": {
+      "item": "susarchy:diamond_brush"
+    }
+  },
+  "result": {
+    "id": "susarchy:netherite_brush",
+    "count": 1
+  }
+}

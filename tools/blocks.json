@@ -1,0 +1,2042 @@
+[
+  {
+    "id": "sus_stone",
+    "sources": [
+      "minecraft:stone"
+    ],
+    "base": "minecraft:stone",
+    "style": "cube",
+    "textures": {
+      "all": "stone"
+    },
+    "chance": 0.005,
+    "en": "Sus Stone",
+    "zh": "可疑石头",
+    "texture_mode": "layered"
+  },
+  {
+    "id": "sus_stone_bricks",
+    "sources": [
+      "minecraft:stone_bricks"
+    ],
+    "base": "minecraft:stone_bricks",
+    "style": "cube",
+    "textures": {
+      "all": "stone_bricks"
+    },
+    "chance": 0.01,
+    "en": "Sus Stone Bricks",
+    "zh": "可疑石砖"
+  },
+  {
+    "id": "sus_mossy_stone_bricks",
+    "sources": [
+      "minecraft:mossy_stone_bricks"
+    ],
+    "base": "minecraft:mossy_stone_bricks",
+    "style": "cube",
+    "textures": {
+      "all": "mossy_stone_bricks"
+    },
+    "chance": 0.01,
+    "en": "Sus Mossy Stone Bricks",
+    "zh": "可疑苔石砖"
+  },
+  {
+    "id": "sus_deepslate",
+    "sources": [
+      "minecraft:deepslate"
+    ],
+    "base": "minecraft:deepslate",
+    "style": "cube",
+    "textures": {
+      "all": "deepslate"
+    },
+    "chance": 0.005,
+    "en": "Sus Deepslate",
+    "zh": "可疑深板岩"
+  },
+  {
+    "id": "sus_andesite",
+    "sources": [
+      "minecraft:andesite"
+    ],
+    "base": "minecraft:andesite",
+    "style": "cube",
+    "textures": {
+      "all": "andesite"
+    },
+    "chance": 0.005,
+    "en": "Sus Andesite",
+    "zh": "可疑安山岩"
+  },
+  {
+    "id": "sus_diorite",
+    "sources": [
+      "minecraft:diorite"
+    ],
+    "base": "minecraft:diorite",
+    "style": "cube",
+    "textures": {
+      "all": "diorite"
+    },
+    "chance": 0.005,
+    "en": "Sus Diorite",
+    "zh": "可疑闪长岩"
+  },
+  {
+    "id": "sus_tuff",
+    "sources": [
+      "minecraft:tuff"
+    ],
+    "base": "minecraft:tuff",
+    "style": "cube",
+    "textures": {
+      "all": "tuff"
+    },
+    "chance": 0.005,
+    "en": "Sus Tuff",
+    "zh": "可疑凝灰岩"
+  },
+  {
+    "id": "sus_calcite",
+    "sources": [
+      "minecraft:calcite"
+    ],
+    "base": "minecraft:calcite",
+    "style": "cube",
+    "textures": {
+      "all": "calcite"
+    },
+    "chance": 0.005,
+    "en": "Sus Calcite",
+    "zh": "可疑方解石"
+  },
+  {
+    "id": "sus_granite",
+    "sources": [
+      "minecraft:granite"
+    ],
+    "base": "minecraft:granite",
+    "style": "cube",
+    "textures": {
+      "all": "granite"
+    },
+    "chance": 0.005,
+    "en": "Sus Granite",
+    "zh": "可疑花岗岩"
+  },
+  {
+    "id": "sus_obsidian",
+    "sources": [
+      "minecraft:obsidian"
+    ],
+    "base": "minecraft:obsidian",
+    "style": "cube",
+    "textures": {
+      "all": "obsidian"
+    },
+    "chance": 0.002,
+    "en": "Sus Obsidian",
+    "zh": "可疑黑曜石"
+  },
+  {
+    "id": "sus_crying_obsidian",
+    "sources": [
+      "minecraft:crying_obsidian"
+    ],
+    "base": "minecraft:crying_obsidian",
+    "style": "cube",
+    "textures": {
+      "all": "crying_obsidian"
+    },
+    "chance": 0.005,
+    "en": "Sus Crying Obsidian",
+    "zh": "可疑哭泣的黑曜石"
+  },
+  {
+    "id": "sus_amethyst_block",
+    "sources": [
+      "minecraft:amethyst_block"
+    ],
+    "base": "minecraft:amethyst_block",
+    "style": "cube",
+    "textures": {
+      "all": "amethyst_block"
+    },
+    "chance": 0.005,
+    "en": "Sus Amethyst Block",
+    "zh": "可疑紫水晶块"
+  },
+  {
+    "id": "sus_budding_amethyst",
+    "sources": [
+      "minecraft:budding_amethyst"
+    ],
+    "base": "minecraft:budding_amethyst",
+    "style": "cube",
+    "textures": {
+      "all": "budding_amethyst"
+    },
+    "chance": 0.002,
+    "en": "Sus Budding Amethyst",
+    "zh": "可疑紫水晶母岩"
+  },
+  {
+    "id": "sus_bookshelf",
+    "sources": [
+      "minecraft:bookshelf"
+    ],
+    "base": "minecraft:bookshelf",
+    "style": "column",
+    "textures": {
+      "side": "bookshelf",
+      "end": "oak_planks"
+    },
+    "chance": 0.01,
+    "en": "Sus Bookshelf",
+    "zh": "可疑书架",
+    "loot": "bookshelf"
+  },
+  {
+    "id": "sus_clay",
+    "sources": [
+      "minecraft:clay"
+    ],
+    "base": "minecraft:clay",
+    "style": "cube",
+    "textures": {
+      "all": "clay"
+    },
+    "chance": 0.01,
+    "en": "Sus Clay",
+    "zh": "可疑黏土",
+    "texture_mode": "layered"
+  },
+  {
+    "id": "sus_dirt",
+    "sources": [
+      "minecraft:dirt"
+    ],
+    "base": "minecraft:dirt",
+    "style": "cube",
+    "textures": {
+      "all": "dirt"
+    },
+    "chance": 0.01,
+    "en": "Sus Dirt",
+    "zh": "可疑泥土",
+    "texture_mode": "layered"
+  },
+  {
+    "id": "sus_dirt_path",
+    "sources": [
+      "minecraft:dirt_path"
+    ],
+    "base": "minecraft:dirt_path",
+    "style": "path",
+    "textures": {
+      "top": "dirt_path_top",
+      "side": "dirt_path_side",
+      "bottom": "dirt"
+    },
+    "chance": 0.01,
+    "en": "Sus Dirt Path",
+    "zh": "可疑土径"
+  },
+  {
+    "id": "sus_grass_block",
+    "sources": [
+      "minecraft:grass_block"
+    ],
+    "base": "minecraft:grass_block",
+    "style": "grass_block",
+    "textures": {
+      "top": "grass_block_top",
+      "side": "grass_block_side",
+      "bottom": "dirt",
+      "overlay": "grass_block_side_overlay"
+    },
+    "chance": 0.008,
+    "en": "Sus Grass Block",
+    "zh": "可疑草方块",
+    "texture_mode": "layered"
+  },
+  {
+    "id": "sus_pumpkin",
+    "sources": [
+      "minecraft:pumpkin"
+    ],
+    "base": "minecraft:pumpkin",
+    "style": "column",
+    "textures": {
+      "side": "pumpkin_side",
+      "end": "pumpkin_top"
+    },
+    "texture_mode": "layered",
+    "chance": 0.01,
+    "en": "Sus Pumpkin",
+    "zh": "可疑南瓜"
+  },
+  {
+    "id": "sus_melon",
+    "sources": [
+      "minecraft:melon"
+    ],
+    "base": "minecraft:melon",
+    "style": "column",
+    "textures": {
+      "side": "melon_side",
+      "end": "melon_top"
+    },
+    "texture_mode": "layered",
+    "chance": 0.01,
+    "en": "Sus Melon",
+    "zh": "可疑西瓜"
+  },
+  {
+    "id": "sus_red_sand",
+    "sources": [
+      "minecraft:red_sand"
+    ],
+    "base": "minecraft:red_sand",
+    "style": "cube",
+    "textures": {
+      "all": "red_sand"
+    },
+    "custom_textures": {
+      "all": "tools/block_textures/suspicious_red_sand_0.png"
+    },
+    "chance": 0.01,
+    "en": "Sus Red Sand",
+    "zh": "可疑红沙"
+  },
+  {
+    "id": "sus_snow",
+    "sources": [
+      "minecraft:snow_block"
+    ],
+    "base": "minecraft:snow_block",
+    "style": "cube",
+    "textures": {
+      "all": "snow"
+    },
+    "custom_textures": {
+      "all": "tools/block_textures/suspicious_snow_0.png"
+    },
+    "chance": 0.01,
+    "en": "Sus Snow Block",
+    "zh": "可疑雪块"
+  },
+  {
+    "id": "sus_ice",
+    "sources": [
+      "minecraft:ice"
+    ],
+    "base": "minecraft:ice",
+    "style": "ice",
+    "textures": {
+      "all": "ice"
+    },
+    "chance": 0.005,
+    "en": "Sus Ice",
+    "zh": "可疑冰",
+    "texture_mode": "layered"
+  },
+  {
+    "id": "sus_mushroom_stem",
+    "sources": [
+      "minecraft:mushroom_stem"
+    ],
+    "base": "minecraft:mushroom_stem",
+    "style": "cube",
+    "textures": {
+      "all": "mushroom_stem"
+    },
+    "chance": 0.01,
+    "en": "Sus Mushroom Stem",
+    "zh": "可疑蘑菇柄",
+    "texture_mode": "layered"
+  },
+  {
+    "id": "sus_red_mushroom_block",
+    "sources": [
+      "minecraft:red_mushroom_block"
+    ],
+    "base": "minecraft:red_mushroom_block",
+    "style": "cube",
+    "textures": {
+      "all": "red_mushroom_block"
+    },
+    "chance": 0.01,
+    "en": "Sus Red Mushroom Block",
+    "zh": "可疑红色蘑菇块",
+    "texture_mode": "layered"
+  },
+  {
+    "id": "sus_brown_mushroom_block",
+    "sources": [
+      "minecraft:brown_mushroom_block"
+    ],
+    "base": "minecraft:brown_mushroom_block",
+    "style": "cube",
+    "textures": {
+      "all": "brown_mushroom_block"
+    },
+    "chance": 0.01,
+    "en": "Sus Brown Mushroom Block",
+    "zh": "可疑棕色蘑菇块",
+    "texture_mode": "layered"
+  },
+  {
+    "id": "sus_tube_coral_block",
+    "sources": [
+      "minecraft:tube_coral_block"
+    ],
+    "base": "minecraft:tube_coral_block",
+    "style": "cube",
+    "textures": {
+      "all": "tube_coral_block"
+    },
+    "chance": 0.005,
+    "en": "Sus Tube Coral Block",
+    "zh": "可疑管珊瑚块"
+  },
+  {
+    "id": "sus_brain_coral_block",
+    "sources": [
+      "minecraft:brain_coral_block"
+    ],
+    "base": "minecraft:brain_coral_block",
+    "style": "cube",
+    "textures": {
+      "all": "brain_coral_block"
+    },
+    "chance": 0.005,
+    "en": "Sus Brain Coral Block",
+    "zh": "可疑脑珊瑚块"
+  },
+  {
+    "id": "sus_bubble_coral_block",
+    "sources": [
+      "minecraft:bubble_coral_block"
+    ],
+    "base": "minecraft:bubble_coral_block",
+    "style": "cube",
+    "textures": {
+      "all": "bubble_coral_block"
+    },
+    "chance": 0.005,
+    "en": "Sus Bubble Coral Block",
+    "zh": "可疑气泡珊瑚块"
+  },
+  {
+    "id": "sus_fire_coral_block",
+    "sources": [
+      "minecraft:fire_coral_block"
+    ],
+    "base": "minecraft:fire_coral_block",
+    "style": "cube",
+    "textures": {
+      "all": "fire_coral_block"
+    },
+    "chance": 0.005,
+    "en": "Sus Fire Coral Block",
+    "zh": "可疑火珊瑚块"
+  },
+  {
+    "id": "sus_horn_coral_block",
+    "sources": [
+      "minecraft:horn_coral_block"
+    ],
+    "base": "minecraft:horn_coral_block",
+    "style": "cube",
+    "textures": {
+      "all": "horn_coral_block"
+    },
+    "chance": 0.005,
+    "en": "Sus Horn Coral Block",
+    "zh": "可疑角珊瑚块"
+  },
+  {
+    "id": "sus_sculk",
+    "sources": [
+      "minecraft:sculk"
+    ],
+    "base": "minecraft:sculk",
+    "style": "cube",
+    "textures": {
+      "all": "sculk"
+    },
+    "chance": 0.005,
+    "en": "Sus Sculk",
+    "zh": "可疑幽匿块"
+  },
+  {
+    "id": "sus_bedrock",
+    "sources": [
+      "minecraft:bedrock"
+    ],
+    "base": "minecraft:bedrock",
+    "style": "cube",
+    "textures": {
+      "all": "bedrock"
+    },
+    "chance": 0.0001,
+    "en": "Sus Bedrock",
+    "zh": "可疑基岩"
+  },
+  {
+    "id": "sus_sandstone",
+    "sources": [
+      "minecraft:sandstone"
+    ],
+    "base": "minecraft:sandstone",
+    "style": "sandstone",
+    "textures": {
+      "side": "sandstone",
+      "top": "sandstone_top",
+      "bottom": "sandstone_bottom"
+    },
+    "chance": 0.01,
+    "en": "Sus Sandstone",
+    "zh": "可疑砂岩",
+    "texture_mode": "layered"
+  },
+  {
+    "id": "sus_spawner",
+    "sources": [
+      "minecraft:spawner"
+    ],
+    "base": "minecraft:spawner",
+    "style": "spawner",
+    "textures": {
+      "all": "spawner"
+    },
+    "chance": 0.002,
+    "en": "Sus Spawner",
+    "zh": "可疑刷怪笼"
+  },
+  {
+    "id": "sus_copper_block",
+    "sources": [
+      "minecraft:copper_block"
+    ],
+    "base": "minecraft:copper_block",
+    "style": "cube",
+    "textures": {
+      "all": "copper_block"
+    },
+    "chance": 0.005,
+    "en": "Sus Copper Block",
+    "zh": "可疑铜块",
+    "texture_mode": "layered"
+  },
+  {
+    "id": "sus_exposed_copper",
+    "sources": [
+      "minecraft:exposed_copper"
+    ],
+    "base": "minecraft:exposed_copper",
+    "style": "cube",
+    "textures": {
+      "all": "exposed_copper"
+    },
+    "chance": 0.005,
+    "en": "Sus Exposed Copper",
+    "zh": "可疑斑驳的铜块",
+    "texture_mode": "layered"
+  },
+  {
+    "id": "sus_weathered_copper",
+    "sources": [
+      "minecraft:weathered_copper"
+    ],
+    "base": "minecraft:weathered_copper",
+    "style": "cube",
+    "textures": {
+      "all": "weathered_copper"
+    },
+    "chance": 0.005,
+    "en": "Sus Weathered Copper",
+    "zh": "可疑风化的铜块",
+    "texture_mode": "layered"
+  },
+  {
+    "id": "sus_oxidized_copper",
+    "sources": [
+      "minecraft:oxidized_copper"
+    ],
+    "base": "minecraft:oxidized_copper",
+    "style": "cube",
+    "textures": {
+      "all": "oxidized_copper"
+    },
+    "chance": 0.005,
+    "en": "Sus Oxidized Copper",
+    "zh": "可疑氧化的铜块",
+    "texture_mode": "layered"
+  },
+  {
+    "id": "sus_waxed_copper_block",
+    "sources": [
+      "minecraft:waxed_copper_block"
+    ],
+    "base": "minecraft:waxed_copper_block",
+    "style": "cube",
+    "textures": {
+      "all": "copper_block"
+    },
+    "chance": 0.005,
+    "en": "Sus Waxed Copper Block",
+    "zh": "可疑涂蜡铜块",
+    "texture_mode": "layered"
+  },
+  {
+    "id": "sus_waxed_exposed_copper",
+    "sources": [
+      "minecraft:waxed_exposed_copper"
+    ],
+    "base": "minecraft:waxed_exposed_copper",
+    "style": "cube",
+    "textures": {
+      "all": "exposed_copper"
+    },
+    "chance": 0.005,
+    "en": "Sus Waxed Exposed Copper",
+    "zh": "可疑涂蜡斑驳铜块",
+    "texture_mode": "layered"
+  },
+  {
+    "id": "sus_waxed_weathered_copper",
+    "sources": [
+      "minecraft:waxed_weathered_copper"
+    ],
+    "base": "minecraft:waxed_weathered_copper",
+    "style": "cube",
+    "textures": {
+      "all": "weathered_copper"
+    },
+    "chance": 0.005,
+    "en": "Sus Waxed Weathered Copper",
+    "zh": "可疑涂蜡风化铜块",
+    "texture_mode": "layered"
+  },
+  {
+    "id": "sus_waxed_oxidized_copper",
+    "sources": [
+      "minecraft:waxed_oxidized_copper"
+    ],
+    "base": "minecraft:waxed_oxidized_copper",
+    "style": "cube",
+    "textures": {
+      "all": "oxidized_copper"
+    },
+    "chance": 0.005,
+    "en": "Sus Waxed Oxidized Copper",
+    "zh": "可疑涂蜡氧化铜块",
+    "texture_mode": "layered"
+  },
+  {
+    "id": "sus_waxed_cut_copper",
+    "sources": [
+      "minecraft:waxed_cut_copper"
+    ],
+    "base": "minecraft:waxed_cut_copper",
+    "style": "cube",
+    "textures": {
+      "all": "cut_copper"
+    },
+    "chance": 0.005,
+    "en": "Sus Waxed Cut Copper",
+    "zh": "可疑涂蜡切制铜块",
+    "texture_mode": "layered"
+  },
+  {
+    "id": "sus_waxed_exposed_cut_copper",
+    "sources": [
+      "minecraft:waxed_exposed_cut_copper"
+    ],
+    "base": "minecraft:waxed_exposed_cut_copper",
+    "style": "cube",
+    "textures": {
+      "all": "exposed_cut_copper"
+    },
+    "chance": 0.005,
+    "en": "Sus Waxed Exposed Cut Copper",
+    "zh": "可疑涂蜡斑驳切制铜块",
+    "texture_mode": "layered"
+  },
+  {
+    "id": "sus_waxed_weathered_cut_copper",
+    "sources": [
+      "minecraft:waxed_weathered_cut_copper"
+    ],
+    "base": "minecraft:waxed_weathered_cut_copper",
+    "style": "cube",
+    "textures": {
+      "all": "weathered_cut_copper"
+    },
+    "chance": 0.005,
+    "en": "Sus Waxed Weathered Cut Copper",
+    "zh": "可疑涂蜡风化切制铜块",
+    "texture_mode": "layered"
+  },
+  {
+    "id": "sus_waxed_oxidized_cut_copper",
+    "sources": [
+      "minecraft:waxed_oxidized_cut_copper"
+    ],
+    "base": "minecraft:waxed_oxidized_cut_copper",
+    "style": "cube",
+    "textures": {
+      "all": "oxidized_cut_copper"
+    },
+    "chance": 0.005,
+    "en": "Sus Waxed Oxidized Cut Copper",
+    "zh": "可疑涂蜡氧化切制铜块",
+    "texture_mode": "layered"
+  },
+  {
+    "id": "sus_waxed_chiseled_copper",
+    "sources": [
+      "minecraft:waxed_chiseled_copper"
+    ],
+    "base": "minecraft:waxed_chiseled_copper",
+    "style": "cube",
+    "textures": {
+      "all": "chiseled_copper"
+    },
+    "chance": 0.005,
+    "en": "Sus Waxed Chiseled Copper",
+    "zh": "可疑涂蜡雕纹铜块",
+    "texture_mode": "layered"
+  },
+  {
+    "id": "sus_waxed_exposed_chiseled_copper",
+    "sources": [
+      "minecraft:waxed_exposed_chiseled_copper"
+    ],
+    "base": "minecraft:waxed_exposed_chiseled_copper",
+    "style": "cube",
+    "textures": {
+      "all": "exposed_chiseled_copper"
+    },
+    "chance": 0.005,
+    "en": "Sus Waxed Exposed Chiseled Copper",
+    "zh": "可疑涂蜡斑驳雕纹铜块",
+    "texture_mode": "layered"
+  },
+  {
+    "id": "sus_waxed_weathered_chiseled_copper",
+    "sources": [
+      "minecraft:waxed_weathered_chiseled_copper"
+    ],
+    "base": "minecraft:waxed_weathered_chiseled_copper",
+    "style": "cube",
+    "textures": {
+      "all": "weathered_chiseled_copper"
+    },
+    "chance": 0.005,
+    "en": "Sus Waxed Weathered Chiseled Copper",
+    "zh": "可疑涂蜡风化雕纹铜块",
+    "texture_mode": "layered"
+  },
+  {
+    "id": "sus_waxed_oxidized_chiseled_copper",
+    "sources": [
+      "minecraft:waxed_oxidized_chiseled_copper"
+    ],
+    "base": "minecraft:waxed_oxidized_chiseled_copper",
+    "style": "cube",
+    "textures": {
+      "all": "oxidized_chiseled_copper"
+    },
+    "chance": 0.005,
+    "en": "Sus Waxed Oxidized Chiseled Copper",
+    "zh": "可疑涂蜡氧化雕纹铜块",
+    "texture_mode": "layered"
+  },
+  {
+    "id": "sus_waxed_copper_grate",
+    "sources": [
+      "minecraft:waxed_copper_grate"
+    ],
+    "base": "minecraft:waxed_copper_grate",
+    "style": "grate",
+    "textures": {
+      "all": "copper_grate"
+    },
+    "chance": 0.005,
+    "en": "Sus Waxed Copper Grate",
+    "zh": "可疑涂蜡铜格栅",
+    "texture_mode": "layered"
+  },
+  {
+    "id": "sus_waxed_exposed_copper_grate",
+    "sources": [
+      "minecraft:waxed_exposed_copper_grate"
+    ],
+    "base": "minecraft:waxed_exposed_copper_grate",
+    "style": "grate",
+    "textures": {
+      "all": "exposed_copper_grate"
+    },
+    "chance": 0.005,
+    "en": "Sus Waxed Exposed Copper Grate",
+    "zh": "可疑涂蜡斑驳铜格栅",
+    "texture_mode": "layered"
+  },
+  {
+    "id": "sus_waxed_weathered_copper_grate",
+    "sources": [
+      "minecraft:waxed_weathered_copper_grate"
+    ],
+    "base": "minecraft:waxed_weathered_copper_grate",
+    "style": "grate",
+    "textures": {
+      "all": "weathered_copper_grate"
+    },
+    "chance": 0.005,
+    "en": "Sus Waxed Weathered Copper Grate",
+    "zh": "可疑涂蜡风化铜格栅",
+    "texture_mode": "layered"
+  },
+  {
+    "id": "sus_waxed_oxidized_copper_grate",
+    "sources": [
+      "minecraft:waxed_oxidized_copper_grate"
+    ],
+    "base": "minecraft:waxed_oxidized_copper_grate",
+    "style": "grate",
+    "textures": {
+      "all": "oxidized_copper_grate"
+    },
+    "chance": 0.005,
+    "en": "Sus Waxed Oxidized Copper Grate",
+    "zh": "可疑涂蜡氧化铜格栅",
+    "texture_mode": "layered"
+  },
+  {
+    "id": "sus_waxed_copper_bulb",
+    "sources": [
+      "minecraft:waxed_copper_bulb"
+    ],
+    "base": "minecraft:waxed_copper_bulb",
+    "style": "cube",
+    "textures": {
+      "all": "copper_bulb_lit"
+    },
+    "chance": 0.005,
+    "en": "Sus Waxed Copper Bulb",
+    "zh": "可疑涂蜡铜灯",
+    "texture_mode": "layered"
+  },
+  {
+    "id": "sus_waxed_exposed_copper_bulb",
+    "sources": [
+      "minecraft:waxed_exposed_copper_bulb"
+    ],
+    "base": "minecraft:waxed_exposed_copper_bulb",
+    "style": "cube",
+    "textures": {
+      "all": "exposed_copper_bulb_lit"
+    },
+    "chance": 0.005,
+    "en": "Sus Waxed Exposed Copper Bulb",
+    "zh": "可疑涂蜡斑驳铜灯",
+    "texture_mode": "layered"
+  },
+  {
+    "id": "sus_waxed_weathered_copper_bulb",
+    "sources": [
+      "minecraft:waxed_weathered_copper_bulb"
+    ],
+    "base": "minecraft:waxed_weathered_copper_bulb",
+    "style": "cube",
+    "textures": {
+      "all": "weathered_copper_bulb_lit"
+    },
+    "chance": 0.005,
+    "en": "Sus Waxed Weathered Copper Bulb",
+    "zh": "可疑涂蜡风化铜灯",
+    "texture_mode": "layered"
+  },
+  {
+    "id": "sus_waxed_oxidized_copper_bulb",
+    "sources": [
+      "minecraft:waxed_oxidized_copper_bulb"
+    ],
+    "base": "minecraft:waxed_oxidized_copper_bulb",
+    "style": "cube",
+    "textures": {
+      "all": "oxidized_copper_bulb_lit"
+    },
+    "chance": 0.005,
+    "en": "Sus Waxed Oxidized Copper Bulb",
+    "zh": "可疑涂蜡氧化铜灯",
+    "texture_mode": "layered"
+  },
+  {
+    "id": "sus_netherrack",
+    "sources": [
+      "minecraft:netherrack"
+    ],
+    "base": "minecraft:netherrack",
+    "style": "cube",
+    "textures": {
+      "all": "netherrack"
+    },
+    "chance": 0.005,
+    "en": "Sus Netherrack",
+    "zh": "可疑下界岩",
+    "texture_mode": "layered"
+  },
+  {
+    "id": "sus_soul_sand",
+    "sources": [
+      "minecraft:soul_sand"
+    ],
+    "base": "minecraft:soul_sand",
+    "style": "cube",
+    "textures": {
+      "all": "soul_sand"
+    },
+    "chance": 0.01,
+    "en": "Sus Soul Sand",
+    "zh": "可疑灵魂沙"
+  },
+  {
+    "id": "sus_bone_block",
+    "sources": [
+      "minecraft:bone_block"
+    ],
+    "base": "minecraft:bone_block",
+    "style": "pillar",
+    "textures": {
+      "side": "bone_block_side",
+      "end": "bone_block_top"
+    },
+    "chance": 0.01,
+    "en": "Sus Bone Block",
+    "zh": "可疑骨块",
+    "texture_mode": "layered"
+  },
+  {
+    "id": "sus_blackstone",
+    "sources": [
+      "minecraft:blackstone"
+    ],
+    "base": "minecraft:blackstone",
+    "style": "cube",
+    "textures": {
+      "all": "blackstone"
+    },
+    "chance": 0.005,
+    "en": "Sus Blackstone",
+    "zh": "可疑黑石"
+  },
+  {
+    "id": "sus_basalt",
+    "sources": [
+      "minecraft:basalt"
+    ],
+    "base": "minecraft:basalt",
+    "style": "pillar",
+    "textures": {
+      "side": "basalt_side",
+      "end": "basalt_top"
+    },
+    "chance": 0.005,
+    "en": "Sus Basalt",
+    "zh": "可疑玄武岩"
+  },
+  {
+    "id": "sus_end_stone",
+    "sources": [
+      "minecraft:end_stone"
+    ],
+    "base": "minecraft:end_stone",
+    "style": "cube",
+    "textures": {
+      "all": "end_stone"
+    },
+    "chance": 0.005,
+    "en": "Sus End Stone",
+    "zh": "可疑末地石",
+    "texture_mode": "layered"
+  },
+  {
+    "id": "sus_oak_log",
+    "sources": [
+      "minecraft:oak_log"
+    ],
+    "base": "minecraft:oak_log",
+    "style": "pillar",
+    "textures": {
+      "side": "oak_log",
+      "end": "oak_log_top"
+    },
+    "chance": 0.01,
+    "en": "Sus Oak Log",
+    "zh": "可疑橡木原木"
+  },
+  {
+    "id": "sus_spruce_log",
+    "sources": [
+      "minecraft:spruce_log"
+    ],
+    "base": "minecraft:spruce_log",
+    "style": "pillar",
+    "textures": {
+      "side": "spruce_log",
+      "end": "spruce_log_top"
+    },
+    "chance": 0.01,
+    "en": "Sus Spruce Log",
+    "zh": "可疑云杉原木"
+  },
+  {
+    "id": "sus_birch_log",
+    "sources": [
+      "minecraft:birch_log"
+    ],
+    "base": "minecraft:birch_log",
+    "style": "pillar",
+    "textures": {
+      "side": "birch_log",
+      "end": "birch_log_top"
+    },
+    "chance": 0.01,
+    "en": "Sus Birch Log",
+    "zh": "可疑白桦原木",
+    "texture_mode": "layered"
+  },
+  {
+    "id": "sus_jungle_log",
+    "sources": [
+      "minecraft:jungle_log"
+    ],
+    "base": "minecraft:jungle_log",
+    "style": "pillar",
+    "textures": {
+      "side": "jungle_log",
+      "end": "jungle_log_top"
+    },
+    "chance": 0.01,
+    "en": "Sus Jungle Log",
+    "zh": "可疑丛林原木"
+  },
+  {
+    "id": "sus_acacia_log",
+    "sources": [
+      "minecraft:acacia_log"
+    ],
+    "base": "minecraft:acacia_log",
+    "style": "pillar",
+    "textures": {
+      "side": "acacia_log",
+      "end": "acacia_log_top"
+    },
+    "chance": 0.01,
+    "en": "Sus Acacia Log",
+    "zh": "可疑金合欢原木"
+  },
+  {
+    "id": "sus_dark_oak_log",
+    "sources": [
+      "minecraft:dark_oak_log"
+    ],
+    "base": "minecraft:dark_oak_log",
+    "style": "pillar",
+    "textures": {
+      "side": "dark_oak_log",
+      "end": "dark_oak_log_top"
+    },
+    "chance": 0.01,
+    "en": "Sus Dark Oak Log",
+    "zh": "可疑深色橡木原木"
+  },
+  {
+    "id": "sus_mangrove_log",
+    "sources": [
+      "minecraft:mangrove_log"
+    ],
+    "base": "minecraft:mangrove_log",
+    "style": "pillar",
+    "textures": {
+      "side": "mangrove_log",
+      "end": "mangrove_log_top"
+    },
+    "chance": 0.01,
+    "en": "Sus Mangrove Log",
+    "zh": "可疑红树原木"
+  },
+  {
+    "id": "sus_cherry_log",
+    "sources": [
+      "minecraft:cherry_log"
+    ],
+    "base": "minecraft:cherry_log",
+    "style": "pillar",
+    "textures": {
+      "side": "cherry_log",
+      "end": "cherry_log_top"
+    },
+    "chance": 0.01,
+    "en": "Sus Cherry Log",
+    "zh": "可疑樱花原木"
+  },
+  {
+    "id": "sus_crimson_stem",
+    "sources": [
+      "minecraft:crimson_stem"
+    ],
+    "base": "minecraft:crimson_stem",
+    "style": "pillar",
+    "textures": {
+      "side": "crimson_stem",
+      "end": "crimson_stem_top"
+    },
+    "chance": 0.01,
+    "en": "Sus Crimson Stem",
+    "zh": "可疑绯红菌柄"
+  },
+  {
+    "id": "sus_warped_stem",
+    "sources": [
+      "minecraft:warped_stem"
+    ],
+    "base": "minecraft:warped_stem",
+    "style": "pillar",
+    "textures": {
+      "side": "warped_stem",
+      "end": "warped_stem_top"
+    },
+    "chance": 0.01,
+    "en": "Sus Warped Stem",
+    "zh": "可疑诡异菌柄"
+  },
+  {
+    "id": "sus_oak_leaves",
+    "sources": [
+      "minecraft:oak_leaves"
+    ],
+    "base": "minecraft:oak_leaves",
+    "style": "leaves",
+    "textures": {
+      "all": "oak_leaves"
+    },
+    "chance": 0.015,
+    "en": "Sus Oak Leaves",
+    "zh": "可疑橡树树叶"
+  },
+  {
+    "id": "sus_spruce_leaves",
+    "sources": [
+      "minecraft:spruce_leaves"
+    ],
+    "base": "minecraft:spruce_leaves",
+    "style": "leaves",
+    "textures": {
+      "all": "spruce_leaves"
+    },
+    "chance": 0.015,
+    "en": "Sus Spruce Leaves",
+    "zh": "可疑云杉树叶"
+  },
+  {
+    "id": "sus_birch_leaves",
+    "sources": [
+      "minecraft:birch_leaves"
+    ],
+    "base": "minecraft:birch_leaves",
+    "style": "leaves",
+    "textures": {
+      "all": "birch_leaves"
+    },
+    "chance": 0.015,
+    "en": "Sus Birch Leaves",
+    "zh": "可疑白桦树叶"
+  },
+  {
+    "id": "sus_jungle_leaves",
+    "sources": [
+      "minecraft:jungle_leaves"
+    ],
+    "base": "minecraft:jungle_leaves",
+    "style": "leaves",
+    "textures": {
+      "all": "jungle_leaves"
+    },
+    "chance": 0.015,
+    "en": "Sus Jungle Leaves",
+    "zh": "可疑丛林树叶"
+  },
+  {
+    "id": "sus_acacia_leaves",
+    "sources": [
+      "minecraft:acacia_leaves"
+    ],
+    "base": "minecraft:acacia_leaves",
+    "style": "leaves",
+    "textures": {
+      "all": "acacia_leaves"
+    },
+    "chance": 0.015,
+    "en": "Sus Acacia Leaves",
+    "zh": "可疑金合欢树叶"
+  },
+  {
+    "id": "sus_dark_oak_leaves",
+    "sources": [
+      "minecraft:dark_oak_leaves"
+    ],
+    "base": "minecraft:dark_oak_leaves",
+    "style": "leaves",
+    "textures": {
+      "all": "dark_oak_leaves"
+    },
+    "chance": 0.015,
+    "en": "Sus Dark Oak Leaves",
+    "zh": "可疑深色橡树树叶"
+  },
+  {
+    "id": "sus_mangrove_leaves",
+    "sources": [
+      "minecraft:mangrove_leaves"
+    ],
+    "base": "minecraft:mangrove_leaves",
+    "style": "leaves",
+    "textures": {
+      "all": "mangrove_leaves"
+    },
+    "chance": 0.015,
+    "en": "Sus Mangrove Leaves",
+    "zh": "可疑红树树叶"
+  },
+  {
+    "id": "sus_cherry_leaves",
+    "sources": [
+      "minecraft:cherry_leaves"
+    ],
+    "base": "minecraft:cherry_leaves",
+    "style": "leaves",
+    "textures": {
+      "all": "cherry_leaves"
+    },
+    "chance": 0.015,
+    "en": "Sus Cherry Leaves",
+    "zh": "可疑樱花树叶"
+  },
+  {
+    "id": "sus_azalea_leaves",
+    "sources": [
+      "minecraft:azalea_leaves"
+    ],
+    "base": "minecraft:azalea_leaves",
+    "style": "leaves",
+    "textures": {
+      "all": "azalea_leaves"
+    },
+    "chance": 0.015,
+    "en": "Sus Azalea Leaves",
+    "zh": "可疑杜鹃树叶"
+  },
+  {
+    "id": "sus_flowering_azalea_leaves",
+    "sources": [
+      "minecraft:flowering_azalea_leaves"
+    ],
+    "base": "minecraft:flowering_azalea_leaves",
+    "style": "leaves",
+    "textures": {
+      "all": "flowering_azalea_leaves"
+    },
+    "chance": 0.015,
+    "en": "Sus Flowering Azalea Leaves",
+    "zh": "可疑盛开的杜鹃树叶"
+  },
+  {
+    "id": "sus_coal_ore",
+    "sources": [
+      "minecraft:coal_ore"
+    ],
+    "base": "minecraft:coal_ore",
+    "style": "cube",
+    "textures": {
+      "all": "coal_ore"
+    },
+    "chance": 0.04,
+    "en": "Sus Coal Ore",
+    "zh": "可疑煤矿石",
+    "loot": "ore_coal"
+  },
+  {
+    "id": "sus_iron_ore",
+    "sources": [
+      "minecraft:iron_ore"
+    ],
+    "base": "minecraft:iron_ore",
+    "style": "cube",
+    "textures": {
+      "all": "iron_ore"
+    },
+    "chance": 0.04,
+    "en": "Sus Iron Ore",
+    "zh": "可疑铁矿石",
+    "loot": "ore_iron"
+  },
+  {
+    "id": "sus_copper_ore",
+    "sources": [
+      "minecraft:copper_ore"
+    ],
+    "base": "minecraft:copper_ore",
+    "style": "cube",
+    "textures": {
+      "all": "copper_ore"
+    },
+    "chance": 0.04,
+    "en": "Sus Copper Ore",
+    "zh": "可疑铜矿石",
+    "loot": "ore_copper"
+  },
+  {
+    "id": "sus_gold_ore",
+    "sources": [
+      "minecraft:gold_ore"
+    ],
+    "base": "minecraft:gold_ore",
+    "style": "cube",
+    "textures": {
+      "all": "gold_ore"
+    },
+    "chance": 0.04,
+    "en": "Sus Gold Ore",
+    "zh": "可疑金矿石",
+    "loot": "ore_gold"
+  },
+  {
+    "id": "sus_redstone_ore",
+    "sources": [
+      "minecraft:redstone_ore"
+    ],
+    "base": "minecraft:redstone_ore",
+    "style": "cube",
+    "textures": {
+      "all": "redstone_ore"
+    },
+    "chance": 0.04,
+    "en": "Sus Redstone Ore",
+    "zh": "可疑红石矿石",
+    "loot": "ore_redstone"
+  },
+  {
+    "id": "sus_emerald_ore",
+    "sources": [
+      "minecraft:emerald_ore"
+    ],
+    "base": "minecraft:emerald_ore",
+    "style": "cube",
+    "textures": {
+      "all": "emerald_ore"
+    },
+    "chance": 0.04,
+    "en": "Sus Emerald Ore",
+    "zh": "可疑绿宝石矿石",
+    "loot": "ore_emerald"
+  },
+  {
+    "id": "sus_lapis_ore",
+    "sources": [
+      "minecraft:lapis_ore"
+    ],
+    "base": "minecraft:lapis_ore",
+    "style": "cube",
+    "textures": {
+      "all": "lapis_ore"
+    },
+    "chance": 0.04,
+    "en": "Sus Lapis Ore",
+    "zh": "可疑青金石矿石",
+    "loot": "ore_lapis"
+  },
+  {
+    "id": "sus_diamond_ore",
+    "sources": [
+      "minecraft:diamond_ore"
+    ],
+    "base": "minecraft:diamond_ore",
+    "style": "cube",
+    "textures": {
+      "all": "diamond_ore"
+    },
+    "chance": 0.04,
+    "en": "Sus Diamond Ore",
+    "zh": "可疑钻石矿石",
+    "loot": "ore_diamond"
+  },
+  {
+    "id": "sus_deepslate_coal_ore",
+    "sources": [
+      "minecraft:deepslate_coal_ore"
+    ],
+    "base": "minecraft:deepslate_coal_ore",
+    "style": "cube",
+    "textures": {
+      "all": "deepslate_coal_ore"
+    },
+    "chance": 0.04,
+    "en": "Sus Deepslate Coal Ore",
+    "zh": "可疑深层煤矿石",
+    "loot": "ore_coal"
+  },
+  {
+    "id": "sus_deepslate_iron_ore",
+    "sources": [
+      "minecraft:deepslate_iron_ore"
+    ],
+    "base": "minecraft:deepslate_iron_ore",
+    "style": "cube",
+    "textures": {
+      "all": "deepslate_iron_ore"
+    },
+    "chance": 0.04,
+    "en": "Sus Deepslate Iron Ore",
+    "zh": "可疑深层铁矿石",
+    "loot": "ore_iron"
+  },
+  {
+    "id": "sus_deepslate_copper_ore",
+    "sources": [
+      "minecraft:deepslate_copper_ore"
+    ],
+    "base": "minecraft:deepslate_copper_ore",
+    "style": "cube",
+    "textures": {
+      "all": "deepslate_copper_ore"
+    },
+    "chance": 0.04,
+    "en": "Sus Deepslate Copper Ore",
+    "zh": "可疑深层铜矿石",
+    "loot": "ore_copper"
+  },
+  {
+    "id": "sus_deepslate_gold_ore",
+    "sources": [
+      "minecraft:deepslate_gold_ore"
+    ],
+    "base": "minecraft:deepslate_gold_ore",
+    "style": "cube",
+    "textures": {
+      "all": "deepslate_gold_ore"
+    },
+    "chance": 0.04,
+    "en": "Sus Deepslate Gold Ore",
+    "zh": "可疑深层金矿石",
+    "loot": "ore_gold"
+  },
+  {
+    "id": "sus_deepslate_redstone_ore",
+    "sources": [
+      "minecraft:deepslate_redstone_ore"
+    ],
+    "base": "minecraft:deepslate_redstone_ore",
+    "style": "cube",
+    "textures": {
+      "all": "deepslate_redstone_ore"
+    },
+    "chance": 0.04,
+    "en": "Sus Deepslate Redstone Ore",
+    "zh": "可疑深层红石矿石",
+    "loot": "ore_redstone"
+  },
+  {
+    "id": "sus_deepslate_emerald_ore",
+    "sources": [
+      "minecraft:deepslate_emerald_ore"
+    ],
+    "base": "minecraft:deepslate_emerald_ore",
+    "style": "cube",
+    "textures": {
+      "all": "deepslate_emerald_ore"
+    },
+    "chance": 0.04,
+    "en": "Sus Deepslate Emerald Ore",
+    "zh": "可疑深层绿宝石矿石",
+    "loot": "ore_emerald"
+  },
+  {
+    "id": "sus_deepslate_lapis_ore",
+    "sources": [
+      "minecraft:deepslate_lapis_ore"
+    ],
+    "base": "minecraft:deepslate_lapis_ore",
+    "style": "cube",
+    "textures": {
+      "all": "deepslate_lapis_ore"
+    },
+    "chance": 0.04,
+    "en": "Sus Deepslate Lapis Ore",
+    "zh": "可疑深层青金石矿石",
+    "loot": "ore_lapis"
+  },
+  {
+    "id": "sus_deepslate_diamond_ore",
+    "sources": [
+      "minecraft:deepslate_diamond_ore"
+    ],
+    "base": "minecraft:deepslate_diamond_ore",
+    "style": "cube",
+    "textures": {
+      "all": "deepslate_diamond_ore"
+    },
+    "chance": 0.04,
+    "en": "Sus Deepslate Diamond Ore",
+    "zh": "可疑深层钻石矿石",
+    "loot": "ore_diamond"
+  },
+  {
+    "id": "sus_nether_gold_ore",
+    "sources": [
+      "minecraft:nether_gold_ore"
+    ],
+    "base": "minecraft:nether_gold_ore",
+    "style": "cube",
+    "textures": {
+      "all": "nether_gold_ore"
+    },
+    "chance": 0.04,
+    "en": "Sus Nether Gold Ore",
+    "zh": "可疑下界金矿石",
+    "loot": "ore_nether_gold"
+  },
+  {
+    "id": "sus_nether_quartz_ore",
+    "sources": [
+      "minecraft:nether_quartz_ore"
+    ],
+    "base": "minecraft:nether_quartz_ore",
+    "style": "cube",
+    "textures": {
+      "all": "nether_quartz_ore"
+    },
+    "chance": 0.04,
+    "en": "Sus Nether Quartz Ore",
+    "zh": "可疑下界石英矿石",
+    "loot": "ore_quartz"
+  },
+  {
+    "id": "sus_ancient_debris",
+    "sources": [
+      "minecraft:ancient_debris"
+    ],
+    "base": "minecraft:ancient_debris",
+    "style": "column",
+    "textures": {
+      "side": "ancient_debris_side",
+      "end": "ancient_debris_top"
+    },
+    "chance": 0.01,
+    "en": "Sus Ancient Debris",
+    "zh": "可疑远古残骸",
+    "loot": "ore_ancient_debris"
+  },
+  {
+    "id": "sus_red_sandstone",
+    "sources": [
+      "minecraft:red_sandstone"
+    ],
+    "base": "minecraft:red_sandstone",
+    "style": "sandstone",
+    "textures": {
+      "side": "red_sandstone",
+      "top": "red_sandstone_top",
+      "bottom": "red_sandstone_bottom"
+    },
+    "chance": 0.01,
+    "en": "Sus Red Sandstone",
+    "zh": "可疑红砂岩",
+    "texture_mode": "layered"
+  },
+  {
+    "id": "sus_terracotta",
+    "sources": [
+      "minecraft:terracotta"
+    ],
+    "base": "minecraft:terracotta",
+    "style": "cube",
+    "textures": {
+      "all": "terracotta"
+    },
+    "chance": 0.01,
+    "en": "Sus Terracotta",
+    "zh": "可疑陶瓦",
+    "texture_mode": "layered"
+  },
+  {
+    "id": "sus_white_terracotta",
+    "sources": [
+      "minecraft:white_terracotta"
+    ],
+    "base": "minecraft:white_terracotta",
+    "style": "cube",
+    "textures": {
+      "all": "white_terracotta"
+    },
+    "chance": 0.01,
+    "en": "Sus White Terracotta",
+    "zh": "可疑白色陶瓦",
+    "texture_mode": "layered"
+  },
+  {
+    "id": "sus_orange_terracotta",
+    "sources": [
+      "minecraft:orange_terracotta"
+    ],
+    "base": "minecraft:orange_terracotta",
+    "style": "cube",
+    "textures": {
+      "all": "orange_terracotta"
+    },
+    "chance": 0.01,
+    "en": "Sus Orange Terracotta",
+    "zh": "可疑橙色陶瓦",
+    "texture_mode": "layered"
+  },
+  {
+    "id": "sus_yellow_terracotta",
+    "sources": [
+      "minecraft:yellow_terracotta"
+    ],
+    "base": "minecraft:yellow_terracotta",
+    "style": "cube",
+    "textures": {
+      "all": "yellow_terracotta"
+    },
+    "chance": 0.01,
+    "en": "Sus Yellow Terracotta",
+    "zh": "可疑黄色陶瓦",
+    "texture_mode": "layered"
+  },
+  {
+    "id": "sus_brown_terracotta",
+    "sources": [
+      "minecraft:brown_terracotta"
+    ],
+    "base": "minecraft:brown_terracotta",
+    "style": "cube",
+    "textures": {
+      "all": "brown_terracotta"
+    },
+    "chance": 0.01,
+    "en": "Sus Brown Terracotta",
+    "zh": "可疑棕色陶瓦",
+    "texture_mode": "layered"
+  },
+  {
+    "id": "sus_light_gray_terracotta",
+    "sources": [
+      "minecraft:light_gray_terracotta"
+    ],
+    "base": "minecraft:light_gray_terracotta",
+    "style": "cube",
+    "textures": {
+      "all": "light_gray_terracotta"
+    },
+    "chance": 0.01,
+    "en": "Sus Light Gray Terracotta",
+    "zh": "可疑淡灰色陶瓦",
+    "texture_mode": "layered"
+  },
+  {
+    "id": "sus_podzol",
+    "sources": [
+      "minecraft:podzol"
+    ],
+    "base": "minecraft:podzol",
+    "style": "grass",
+    "textures": {
+      "top": "podzol_top",
+      "side": "podzol_side",
+      "bottom": "dirt"
+    },
+    "chance": 0.01,
+    "en": "Sus Podzol",
+    "zh": "可疑灰化土"
+  },
+  {
+    "id": "sus_mycelium",
+    "sources": [
+      "minecraft:mycelium"
+    ],
+    "base": "minecraft:mycelium",
+    "style": "grass",
+    "textures": {
+      "top": "mycelium_top",
+      "side": "mycelium_side",
+      "bottom": "dirt"
+    },
+    "chance": 0.01,
+    "en": "Sus Mycelium",
+    "zh": "可疑菌丝体"
+  },
+  {
+    "id": "sus_coarse_dirt",
+    "sources": [
+      "minecraft:coarse_dirt"
+    ],
+    "base": "minecraft:coarse_dirt",
+    "style": "cube",
+    "textures": {
+      "all": "coarse_dirt"
+    },
+    "chance": 0.01,
+    "en": "Sus Coarse Dirt",
+    "zh": "可疑砂土"
+  },
+  {
+    "id": "sus_rooted_dirt",
+    "sources": [
+      "minecraft:rooted_dirt"
+    ],
+    "base": "minecraft:rooted_dirt",
+    "style": "cube",
+    "textures": {
+      "all": "rooted_dirt"
+    },
+    "chance": 0.01,
+    "en": "Sus Rooted Dirt",
+    "zh": "可疑缠根泥土"
+  },
+  {
+    "id": "sus_moss_block",
+    "sources": [
+      "minecraft:moss_block"
+    ],
+    "base": "minecraft:moss_block",
+    "style": "cube",
+    "textures": {
+      "all": "moss_block"
+    },
+    "chance": 0.01,
+    "en": "Sus Moss Block",
+    "zh": "可疑苔藓块"
+  },
+  {
+    "id": "sus_mud",
+    "sources": [
+      "minecraft:mud"
+    ],
+    "base": "minecraft:mud",
+    "style": "cube",
+    "textures": {
+      "all": "mud"
+    },
+    "chance": 0.01,
+    "en": "Sus Mud",
+    "zh": "可疑泥巴",
+    "texture_mode": "layered"
+  },
+  {
+    "id": "sus_dripstone_block",
+    "sources": [
+      "minecraft:dripstone_block"
+    ],
+    "base": "minecraft:dripstone_block",
+    "style": "cube",
+    "textures": {
+      "all": "dripstone_block"
+    },
+    "chance": 0.01,
+    "en": "Sus Dripstone Block",
+    "zh": "可疑滴水石块"
+  },
+  {
+    "id": "sus_smooth_basalt",
+    "sources": [
+      "minecraft:smooth_basalt"
+    ],
+    "base": "minecraft:smooth_basalt",
+    "style": "cube",
+    "textures": {
+      "all": "smooth_basalt"
+    },
+    "chance": 0.005,
+    "en": "Sus Smooth Basalt",
+    "zh": "可疑平滑玄武岩"
+  },
+  {
+    "id": "sus_packed_ice",
+    "sources": [
+      "minecraft:packed_ice"
+    ],
+    "base": "minecraft:packed_ice",
+    "style": "cube",
+    "textures": {
+      "all": "packed_ice"
+    },
+    "chance": 0.005,
+    "en": "Sus Packed Ice",
+    "zh": "可疑浮冰",
+    "texture_mode": "layered"
+  },
+  {
+    "id": "sus_blue_ice",
+    "sources": [
+      "minecraft:blue_ice"
+    ],
+    "base": "minecraft:blue_ice",
+    "style": "cube",
+    "textures": {
+      "all": "blue_ice"
+    },
+    "chance": 0.005,
+    "en": "Sus Blue Ice",
+    "zh": "可疑蓝冰",
+    "texture_mode": "layered"
+  },
+  {
+    "id": "sus_soul_soil",
+    "sources": [
+      "minecraft:soul_soil"
+    ],
+    "base": "minecraft:soul_soil",
+    "style": "cube",
+    "textures": {
+      "all": "soul_soil"
+    },
+    "chance": 0.01,
+    "en": "Sus Soul Soil",
+    "zh": "可疑灵魂土"
+  },
+  {
+    "id": "sus_magma_block",
+    "sources": [
+      "minecraft:magma_block"
+    ],
+    "base": "minecraft:magma_block",
+    "style": "cube",
+    "textures": {
+      "all": "magma"
+    },
+    "chance": 0.005,
+    "en": "Sus Magma Block",
+    "zh": "可疑岩浆块"
+  },
+  {
+    "id": "sus_glowstone",
+    "sources": [
+      "minecraft:glowstone"
+    ],
+    "base": "minecraft:glowstone",
+    "style": "cube",
+    "textures": {
+      "all": "glowstone"
+    },
+    "chance": 0.01,
+    "en": "Sus Glowstone",
+    "zh": "可疑荧石"
+  },
+  {
+    "id": "sus_crimson_nylium",
+    "sources": [
+      "minecraft:crimson_nylium"
+    ],
+    "base": "minecraft:crimson_nylium",
+    "style": "grass",
+    "textures": {
+      "top": "crimson_nylium",
+      "side": "crimson_nylium_side",
+      "bottom": "netherrack"
+    },
+    "chance": 0.01,
+    "en": "Sus Crimson Nylium",
+    "zh": "可疑绯红菌岩"
+  },
+  {
+    "id": "sus_warped_nylium",
+    "sources": [
+      "minecraft:warped_nylium"
+    ],
+    "base": "minecraft:warped_nylium",
+    "style": "grass",
+    "textures": {
+      "top": "warped_nylium",
+      "side": "warped_nylium_side",
+      "bottom": "netherrack"
+    },
+    "chance": 0.01,
+    "en": "Sus Warped Nylium",
+    "zh": "可疑诡异菌岩"
+  },
+  {
+    "id": "sus_nether_wart_block",
+    "sources": [
+      "minecraft:nether_wart_block"
+    ],
+    "base": "minecraft:nether_wart_block",
+    "style": "cube",
+    "textures": {
+      "all": "nether_wart_block"
+    },
+    "chance": 0.01,
+    "en": "Sus Nether Wart Block",
+    "zh": "可疑下界疣块"
+  },
+  {
+    "id": "sus_warped_wart_block",
+    "sources": [
+      "minecraft:warped_wart_block"
+    ],
+    "base": "minecraft:warped_wart_block",
+    "style": "cube",
+    "textures": {
+      "all": "warped_wart_block"
+    },
+    "chance": 0.01,
+    "en": "Sus Warped Wart Block",
+    "zh": "可疑诡异疣块"
+  },
+  {
+    "id": "sus_shroomlight",
+    "sources": [
+      "minecraft:shroomlight"
+    ],
+    "base": "minecraft:shroomlight",
+    "style": "cube",
+    "textures": {
+      "all": "shroomlight"
+    },
+    "chance": 0.005,
+    "en": "Sus Shroomlight",
+    "zh": "可疑菌光体"
+  },
+  {
+    "id": "sus_dead_tube_coral_block",
+    "sources": [
+      "minecraft:dead_tube_coral_block"
+    ],
+    "base": "minecraft:dead_tube_coral_block",
+    "style": "cube",
+    "textures": {
+      "all": "dead_tube_coral_block"
+    },
+    "chance": 0.005,
+    "en": "Sus Dead Tube Coral Block",
+    "zh": "可疑失活的管珊瑚块"
+  },
+  {
+    "id": "sus_dead_brain_coral_block",
+    "sources": [
+      "minecraft:dead_brain_coral_block"
+    ],
+    "base": "minecraft:dead_brain_coral_block",
+    "style": "cube",
+    "textures": {
+      "all": "dead_brain_coral_block"
+    },
+    "chance": 0.005,
+    "en": "Sus Dead Brain Coral Block",
+    "zh": "可疑失活的脑珊瑚块"
+  },
+  {
+    "id": "sus_dead_bubble_coral_block",
+    "sources": [
+      "minecraft:dead_bubble_coral_block"
+    ],
+    "base": "minecraft:dead_bubble_coral_block",
+    "style": "cube",
+    "textures": {
+      "all": "dead_bubble_coral_block"
+    },
+    "chance": 0.005,
+    "en": "Sus Dead Bubble Coral Block",
+    "zh": "可疑失活的气泡珊瑚块"
+  },
+  {
+    "id": "sus_dead_fire_coral_block",
+    "sources": [
+      "minecraft:dead_fire_coral_block"
+    ],
+    "base": "minecraft:dead_fire_coral_block",
+    "style": "cube",
+    "textures": {
+      "all": "dead_fire_coral_block"
+    },
+    "chance": 0.005,
+    "en": "Sus Dead Fire Coral Block",
+    "zh": "可疑失活的火珊瑚块"
+  },
+  {
+    "id": "sus_dead_horn_coral_block",
+    "sources": [
+      "minecraft:dead_horn_coral_block"
+    ],
+    "base": "minecraft:dead_horn_coral_block",
+    "style": "cube",
+    "textures": {
+      "all": "dead_horn_coral_block"
+    },
+    "chance": 0.005,
+    "en": "Sus Dead Horn Coral Block",
+    "zh": "可疑失活的角珊瑚块"
+  },
+  {
+    "id": "sus_amethyst_cluster",
+    "sources": [
+      "minecraft:amethyst_cluster"
+    ],
+    "base": "minecraft:amethyst_cluster",
+    "style": "amethyst",
+    "textures": {
+      "all": "amethyst_cluster"
+    },
+    "chance": 0.02,
+    "en": "Sus Amethyst Cluster",
+    "zh": "可疑紫水晶簇"
+  },
+  {
+    "id": "sus_large_amethyst_bud",
+    "sources": [
+      "minecraft:large_amethyst_bud"
+    ],
+    "base": "minecraft:large_amethyst_bud",
+    "style": "amethyst",
+    "textures": {
+      "all": "large_amethyst_bud"
+    },
+    "chance": 0.02,
+    "en": "Sus Large Amethyst Bud",
+    "zh": "可疑大型紫水晶芽"
+  },
+  {
+    "id": "sus_medium_amethyst_bud",
+    "sources": [
+      "minecraft:medium_amethyst_bud"
+    ],
+    "base": "minecraft:medium_amethyst_bud",
+    "style": "amethyst",
+    "textures": {
+      "all": "medium_amethyst_bud"
+    },
+    "chance": 0.02,
+    "en": "Sus Medium Amethyst Bud",
+    "zh": "可疑中型紫水晶芽"
+  },
+  {
+    "id": "sus_small_amethyst_bud",
+    "sources": [
+      "minecraft:small_amethyst_bud"
+    ],
+    "base": "minecraft:small_amethyst_bud",
+    "style": "amethyst",
+    "textures": {
+      "all": "small_amethyst_bud"
+    },
+    "chance": 0.02,
+    "en": "Sus Small Amethyst Bud",
+    "zh": "可疑小型紫水晶芽"
+  }
+]

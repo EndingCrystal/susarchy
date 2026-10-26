@@ -1,0 +1,52 @@
+{
+  "variants": {
+    "axis=x,dusted=0": {
+      "model": "susarchy:block/sus_bone_block",
+      "x": 90,
+      "y": 90
+    },
+    "axis=y,dusted=0": {
+      "model": "susarchy:block/sus_bone_block"
+    },
+    "axis=z,dusted=0": {
+      "model": "susarchy:block/sus_bone_block",
+      "x": 90
+    },
+    "axis=x,dusted=1": {
+      "model": "susarchy:block/sus_bone_block_1",
+      "x": 90,
+      "y": 90
+    },
+    "axis=y,dusted=1": {
+      "model": "susarchy:block/sus_bone_block_1"
+    },
+    "axis=z,dusted=1": {
+      "model": "susarchy:block/sus_bone_block_1",
+      "x": 90
+    },
+    "axis=x,dusted=2": {
+      "model": "susarchy:block/sus_bone_block_2",
+      "x": 90,
+      "y": 90
+    },
+    "axis=y,dusted=2": {
+      "model": "susarchy:block/sus_bone_block_2"
+    },
+    "axis=z,dusted=2": {
+      "model": "susarchy:block/sus_bone_block_2",
+      "x": 90
+    },
+    "axis=x,dusted=3": {
+      "model": "susarchy:block/sus_bone_block_3",
+      "x": 90,
+      "y": 90
+    },
+    "axis=y,dusted=3": {
+      "model": "susarchy:block/sus_bone_block_3"
+    },
+    "axis=z,dusted=3": {
+      "model": "susarchy:block/sus_bone_block_3",
+      "x": 90
+    }
+  }
+}

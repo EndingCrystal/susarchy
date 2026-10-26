@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "group": "sus_brushes",
+  "pattern": [
+    "MMM",
+    "MBM",
+    "MMM"
+  ],
+  "key": {
+    "M": {
+      "item": "minecraft:gold_ingot"
+    },
+    "B": {
+      "item": "susarchy:iron_brush"
+    }
+  },
+  "result": {
+    "id": "susarchy:gold_brush",
+    "count": 1
+  }
+}

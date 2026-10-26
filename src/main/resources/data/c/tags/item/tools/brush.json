@@ -1,0 +1,13 @@
+{
+  "replace": false,
+  "values": [
+    "susarchy:feather_brush",
+    "susarchy:wood_brush",
+    "susarchy:stone_brush",
+    "susarchy:flint_brush",
+    "susarchy:iron_brush",
+    "susarchy:gold_brush",
+    "susarchy:diamond_brush",
+    "susarchy:netherite_brush"
+  ]
+}

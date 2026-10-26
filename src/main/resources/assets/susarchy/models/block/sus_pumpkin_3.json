@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column",
+  "textures": {
+    "end": "susarchy:block/sus_pumpkin_end_3",
+    "side": "susarchy:block/sus_pumpkin_side_3"
+  }
+}

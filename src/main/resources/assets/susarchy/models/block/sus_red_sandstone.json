@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/cube_bottom_top",
+  "textures": {
+    "bottom": "susarchy:block/sus_red_sandstone_bottom",
+    "side": "susarchy:block/sus_red_sandstone_side",
+    "top": "susarchy:block/sus_red_sandstone_top"
+  }
+}

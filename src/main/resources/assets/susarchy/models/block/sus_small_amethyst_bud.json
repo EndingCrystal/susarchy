@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cross",
+  "textures": {
+    "cross": "susarchy:block/sus_small_amethyst_bud"
+  },
+  "render_type": "minecraft:cutout"
+}

@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "dusted=0": {
+      "model": "susarchy:block/sus_soul_soil"
+    },
+    "dusted=1": {
+      "model": "susarchy:block/sus_soul_soil"
+    },
+    "dusted=2": {
+      "model": "susarchy:block/sus_soul_soil"
+    },
+    "dusted=3": {
+      "model": "susarchy:block/sus_soul_soil"
+    }
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "parent": "minecraft:block/grass_block",
+  "textures": {
+    "particle": "susarchy:block/sus_grass_block_bottom",
+    "bottom": "susarchy:block/sus_grass_block_bottom",
+    "top": "susarchy:block/sus_grass_block_top",
+    "side": "susarchy:block/sus_grass_block_side",
+    "overlay": "susarchy:block/sus_grass_block_overlay"
+  },
+  "render_type": "minecraft:cutout_mipped"
+}

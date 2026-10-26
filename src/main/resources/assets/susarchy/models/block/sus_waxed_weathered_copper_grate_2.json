@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "susarchy:block/sus_waxed_weathered_copper_grate_2"
+  },
+  "render_type": "minecraft:cutout"
+}

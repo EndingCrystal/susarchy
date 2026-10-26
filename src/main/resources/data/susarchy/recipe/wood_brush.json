@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "group": "sus_brushes",
+  "pattern": [
+    "MMM",
+    "MBM",
+    "MMM"
+  ],
+  "key": {
+    "M": {
+      "item": "minecraft:oak_planks"
+    },
+    "B": {
+      "item": "susarchy:feather_brush"
+    }
+  },
+  "result": {
+    "id": "susarchy:wood_brush",
+    "count": 1
+  }
+}

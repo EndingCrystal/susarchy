@@ -1,0 +1,44 @@
+modLoader="javafml"
+loaderVersion="[4,)"
+license="All Rights Reserved"
+
+[[mods]]
+modId="susarchy"
+version="1.0.0+1.21.1"
+displayName="Sus Archaeology"
+description='''
+Everything is suspicious now.
+
+A meme mod about the archaeology system: eight brush tiers, dozens of suspicious blocks,
+configurable natural replacement, and a suspicious data attachment on every living entity.
+'''
+authors="Aelux"
+logoFile="icon.png"
+
+[[dependencies.susarchy]]
+modId="neoforge"
+type="required"
+versionRange="[21.1.0,)"
+ordering="NONE"
+side="BOTH"
+
+[[dependencies.susarchy]]
+modId="minecraft"
+type="required"
+versionRange="[1.21.1,1.22)"
+ordering="NONE"
+side="BOTH"
+
+[[dependencies.susarchy]]
+modId="jade"
+type="optional"
+versionRange="[15.10.0,)"
+ordering="AFTER"
+side="CLIENT"
+
+[[dependencies.susarchy]]
+modId="jei"
+type="optional"
+versionRange="[19.51.0,)"
+ordering="AFTER"
+side="CLIENT"

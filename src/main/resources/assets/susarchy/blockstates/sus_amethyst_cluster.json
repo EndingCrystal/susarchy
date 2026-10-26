@@ -1,0 +1,108 @@
+{
+  "variants": {
+    "facing=up,dusted=0": {
+      "model": "susarchy:block/sus_amethyst_cluster"
+    },
+    "facing=up,dusted=1": {
+      "model": "susarchy:block/sus_amethyst_cluster"
+    },
+    "facing=up,dusted=2": {
+      "model": "susarchy:block/sus_amethyst_cluster"
+    },
+    "facing=up,dusted=3": {
+      "model": "susarchy:block/sus_amethyst_cluster"
+    },
+    "facing=down,dusted=0": {
+      "model": "susarchy:block/sus_amethyst_cluster",
+      "x": 180
+    },
+    "facing=down,dusted=1": {
+      "model": "susarchy:block/sus_amethyst_cluster",
+      "x": 180
+    },
+    "facing=down,dusted=2": {
+      "model": "susarchy:block/sus_amethyst_cluster",
+      "x": 180
+    },
+    "facing=down,dusted=3": {
+      "model": "susarchy:block/sus_amethyst_cluster",
+      "x": 180
+    },
+    "facing=north,dusted=0": {
+      "model": "susarchy:block/sus_amethyst_cluster",
+      "x": 90
+    },
+    "facing=north,dusted=1": {
+      "model": "susarchy:block/sus_amethyst_cluster",
+      "x": 90
+    },
+    "facing=north,dusted=2": {
+      "model": "susarchy:block/sus_amethyst_cluster",
+      "x": 90
+    },
+    "facing=north,dusted=3": {
+      "model": "susarchy:block/sus_amethyst_cluster",
+      "x": 90
+    },
+    "facing=south,dusted=0": {
+      "model": "susarchy:block/sus_amethyst_cluster",
+      "x": 90,
+      "y": 180
+    },
+    "facing=south,dusted=1": {
+      "model": "susarchy:block/sus_amethyst_cluster",
+      "x": 90,
+      "y": 180
+    },
+    "facing=south,dusted=2": {
+      "model": "susarchy:block/sus_amethyst_cluster",
+      "x": 90,
+      "y": 180
+    },
+    "facing=south,dusted=3": {
+      "model": "susarchy:block/sus_amethyst_cluster",
+      "x": 90,
+      "y": 180
+    },
+    "facing=east,dusted=0": {
+      "model": "susarchy:block/sus_amethyst_cluster",
+      "x": 90,
+      "y": 90
+    },
+    "facing=east,dusted=1": {
+      "model": "susarchy:block/sus_amethyst_cluster",
+      "x": 90,
+      "y": 90
+    },
+    "facing=east,dusted=2": {
+      "model": "susarchy:block/sus_amethyst_cluster",
+      "x": 90,
+      "y": 90
+    },
+    "facing=east,dusted=3": {
+      "model": "susarchy:block/sus_amethyst_cluster",
+      "x": 90,
+      "y": 90
+    },
+    "facing=west,dusted=0": {
+      "model": "susarchy:block/sus_amethyst_cluster",
+      "x": 90,
+      "y": 270
+    },
+    "facing=west,dusted=1": {
+      "model": "susarchy:block/sus_amethyst_cluster",
+      "x": 90,
+      "y": 270
+    },
+    "facing=west,dusted=2": {
+      "model": "susarchy:block/sus_amethyst_cluster",
+      "x": 90,
+      "y": 270
+    },
+    "facing=west,dusted=3": {
+      "model": "susarchy:block/sus_amethyst_cluster",
+      "x": 90,
+      "y": 270
+    }
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_the_recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "susarchy:gold_brush"
+      }
+    },
+    "has_iron_brush": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "susarchy:iron_brush"
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "has_the_recipe",
+      "has_iron_brush"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "susarchy:gold_brush"
+    ]
+  }
+}

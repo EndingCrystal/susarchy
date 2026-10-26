@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "dusted=0": {
+      "model": "susarchy:block/sus_red_mushroom_block"
+    },
+    "dusted=1": {
+      "model": "susarchy:block/sus_red_mushroom_block_1"
+    },
+    "dusted=2": {
+      "model": "susarchy:block/sus_red_mushroom_block_2"
+    },
+    "dusted=3": {
+      "model": "susarchy:block/sus_red_mushroom_block_3"
+    }
+  }
+}

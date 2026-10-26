@@ -1,0 +1,9 @@
+pluginManagement {
+    repositories {
+        maven { url = uri('local-maven') }
+        maven { url = 'https://neoforged.forgecdn.net/releases' }
+        gradlePluginPortal()
+    }
+}
+
+rootProject.name = 'susarchy'

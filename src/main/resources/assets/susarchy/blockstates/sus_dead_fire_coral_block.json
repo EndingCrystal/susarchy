@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "dusted=0": {
+      "model": "susarchy:block/sus_dead_fire_coral_block"
+    },
+    "dusted=1": {
+      "model": "susarchy:block/sus_dead_fire_coral_block"
+    },
+    "dusted=2": {
+      "model": "susarchy:block/sus_dead_fire_coral_block"
+    },
+    "dusted=3": {
+      "model": "susarchy:block/sus_dead_fire_coral_block"
+    }
+  }
+}

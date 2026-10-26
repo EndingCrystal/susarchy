@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column",
+  "textures": {
+    "end": "susarchy:block/sus_crimson_stem_end",
+    "side": "susarchy:block/sus_crimson_stem_side"
+  }
+}

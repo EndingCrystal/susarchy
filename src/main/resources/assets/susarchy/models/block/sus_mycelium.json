@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/cube_bottom_top",
+  "textures": {
+    "bottom": "susarchy:block/sus_mycelium_bottom",
+    "side": "susarchy:block/sus_mycelium_side",
+    "top": "susarchy:block/sus_mycelium_top"
+  }
+}

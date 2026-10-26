@@ -1,0 +1,16 @@
+.gradle/
+build/
+out/
+run/
+run-*/
+local-neoforge/
+local-maven/
+.idea/
+.vscode/
+*.iml
+*.log
+__pycache__/
+*.pyc
+/SusArchaeology-*.jar
+.DS_Store
+Thumbs.db

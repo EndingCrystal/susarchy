@@ -1,0 +1,687 @@
+{
+  "special": {
+    "bookshelf": [
+      {
+        "type": "minecraft:item",
+        "name": "minecraft:book",
+        "weight": 2,
+        "functions": [
+          {
+            "function": "minecraft:enchant_randomly",
+            "options": "#minecraft:on_random_loot"
+          }
+        ]
+      }
+    ],
+    "ruined_portal": [
+      {
+        "type": "minecraft:item",
+        "name": "minecraft:golden_sword",
+        "weight": 1,
+        "functions": [
+          {
+            "function": "minecraft:set_enchantments",
+            "add": false,
+            "enchantments": {
+              "minecraft:sharpness": 10,
+              "minecraft:unbreaking": 5
+            }
+          }
+        ]
+      },
+      {
+        "type": "minecraft:item",
+        "name": "minecraft:golden_pickaxe",
+        "weight": 1,
+        "functions": [
+          {
+            "function": "minecraft:set_enchantments",
+            "add": false,
+            "enchantments": {
+              "minecraft:efficiency": 10,
+              "minecraft:unbreaking": 5
+            }
+          }
+        ]
+      },
+      {
+        "type": "minecraft:item",
+        "name": "minecraft:golden_chestplate",
+        "weight": 1,
+        "functions": [
+          {
+            "function": "minecraft:set_enchantments",
+            "add": false,
+            "enchantments": {
+              "minecraft:protection": 6,
+              "minecraft:unbreaking": 5
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "sus": [
+    ["minecraft:dirt", 7, 1, 2],
+    ["minecraft:gravel", 6, 1, 2],
+    ["minecraft:sand", 5, 1, 2],
+    ["minecraft:flint", 5, 1, 1],
+    ["minecraft:bone", 5, 1, 2],
+    ["minecraft:stick", 5, 1, 2],
+    ["minecraft:clay_ball", 4, 1, 2],
+    ["minecraft:coal", 2, 1, 1],
+    ["minecraft:raw_copper", 1, 1, 1],
+    ["minecraft:emerald", 1, 1, 1]
+  ],
+  "forest": [
+    ["minecraft:stick", 6, 1, 2],
+    ["minecraft:oak_sapling", 4, 1, 1],
+    ["minecraft:birch_sapling", 3, 1, 1],
+    ["minecraft:wheat_seeds", 4, 1, 2],
+    ["minecraft:feather", 3, 1, 2],
+    ["minecraft:apple", 2, 1, 1],
+    ["minecraft:sweet_berries", 3, 1, 2],
+    ["minecraft:moss_block", 2, 1, 1],
+    ["minecraft:honeycomb", 1, 1, 1],
+    ["minecraft:brown_mushroom", 2, 1, 1]
+  ],
+  "plains": [
+    ["minecraft:wheat_seeds", 6, 1, 2],
+    ["minecraft:wheat", 4, 1, 2],
+    ["minecraft:carrot", 4, 1, 2],
+    ["minecraft:potato", 4, 1, 2],
+    ["minecraft:feather", 3, 1, 2],
+    ["minecraft:bread", 2, 1, 1],
+    ["minecraft:egg", 2, 1, 1],
+    ["minecraft:dandelion", 2, 1, 1],
+    ["minecraft:emerald", 1, 1, 1]
+  ],
+  "taiga": [
+    ["minecraft:stick", 6, 1, 2],
+    ["minecraft:spruce_sapling", 4, 1, 1],
+    ["minecraft:sweet_berries", 4, 1, 2],
+    ["minecraft:fern", 3, 1, 1],
+    ["minecraft:charcoal", 4, 1, 2],
+    ["minecraft:coal", 2, 1, 1],
+    ["minecraft:rabbit_hide", 2, 1, 1],
+    ["minecraft:bone", 2, 1, 2],
+    ["minecraft:emerald", 1, 1, 1]
+  ],
+  "snowy": [
+    ["minecraft:snowball", 6, 1, 3],
+    ["minecraft:ice", 2, 1, 1],
+    ["minecraft:packed_ice", 1, 1, 1],
+    ["minecraft:spruce_sapling", 3, 1, 1],
+    ["minecraft:sweet_berries", 3, 1, 2],
+    ["minecraft:rabbit_hide", 2, 1, 1],
+    ["minecraft:leather", 2, 1, 1],
+    ["minecraft:bone", 2, 1, 2],
+    ["minecraft:cod", 1, 1, 1],
+    ["minecraft:emerald", 1, 1, 1]
+  ],
+  "jungle": [
+    ["minecraft:cocoa_beans", 4, 1, 2],
+    ["minecraft:bamboo", 4, 1, 2],
+    ["minecraft:melon_seeds", 3, 1, 2],
+    ["minecraft:jungle_sapling", 3, 1, 1],
+    ["minecraft:vine", 3, 1, 2],
+    ["minecraft:feather", 3, 1, 2],
+    ["minecraft:melon_slice", 2, 1, 2],
+    ["minecraft:emerald", 1, 1, 1]
+  ],
+  "desert": [
+    ["minecraft:sand", 6, 1, 2],
+    ["minecraft:sandstone", 4, 1, 2],
+    ["minecraft:flint", 4, 1, 1],
+    ["minecraft:bone", 4, 1, 2],
+    ["minecraft:dead_bush", 2, 1, 1],
+    ["minecraft:cactus", 2, 1, 1],
+    ["minecraft:gold_nugget", 2, 1, 2],
+    ["minecraft:archer_pottery_sherd", 1, 1, 1],
+    ["minecraft:emerald", 1, 1, 1]
+  ],
+  "badlands": [
+    ["minecraft:red_sand", 6, 1, 2],
+    ["minecraft:terracotta", 4, 1, 2],
+    ["minecraft:clay_ball", 4, 1, 2],
+    ["minecraft:stick", 4, 1, 2],
+    ["minecraft:bone", 3, 1, 2],
+    ["minecraft:gold_nugget", 2, 1, 2],
+    ["minecraft:miner_pottery_sherd", 1, 1, 1],
+    ["minecraft:emerald", 1, 1, 1]
+  ],
+  "savanna": [
+    ["minecraft:acacia_sapling", 4, 1, 1],
+    ["minecraft:wheat_seeds", 5, 1, 2],
+    ["minecraft:wheat", 3, 1, 2],
+    ["minecraft:leather", 2, 1, 1],
+    ["minecraft:arrow", 2, 1, 2],
+    ["minecraft:bone", 3, 1, 2],
+    ["minecraft:dead_bush", 2, 1, 1],
+    ["minecraft:emerald", 1, 1, 1]
+  ],
+  "swamp": [
+    ["minecraft:clay_ball", 5, 1, 2],
+    ["minecraft:lily_pad", 3, 1, 1],
+    ["minecraft:slime_ball", 2, 1, 1],
+    ["minecraft:mangrove_propagule", 3, 1, 1],
+    ["minecraft:sugar_cane", 3, 1, 2],
+    ["minecraft:bone", 3, 1, 2],
+    ["minecraft:blue_orchid", 2, 1, 1],
+    ["minecraft:emerald", 1, 1, 1]
+  ],
+  "ocean": [
+    ["minecraft:sand", 5, 1, 2],
+    ["minecraft:gravel", 4, 1, 2],
+    ["minecraft:clay_ball", 4, 1, 2],
+    ["minecraft:prismarine_shard", 3, 1, 2],
+    ["minecraft:ink_sac", 3, 1, 2],
+    ["minecraft:kelp", 3, 1, 2],
+    ["minecraft:tropical_fish", 3, 1, 2],
+    ["minecraft:prismarine_crystals", 1, 1, 1],
+    ["minecraft:emerald", 1, 1, 1]
+  ],
+  "lush_caves": [
+    ["minecraft:glow_berries", 4, 1, 2],
+    ["minecraft:moss_block", 3, 1, 1],
+    ["minecraft:moss_carpet", 2, 1, 2],
+    ["minecraft:azalea", 2, 1, 1],
+    ["minecraft:flowering_azalea", 2, 1, 1],
+    ["minecraft:spore_blossom", 1, 1, 1],
+    ["minecraft:hanging_roots", 3, 1, 2],
+    ["minecraft:small_dripleaf", 2, 1, 1],
+    ["minecraft:glow_lichen", 3, 1, 2],
+    ["minecraft:clay_ball", 3, 1, 2]
+  ],
+  "dripstone_caves": [
+    ["minecraft:pointed_dripstone", 3, 1, 2],
+    ["minecraft:dripstone_block", 3, 1, 1],
+    ["minecraft:flint", 4, 1, 1],
+    ["minecraft:bone", 3, 1, 2],
+    ["minecraft:raw_copper", 2, 1, 1],
+    ["minecraft:amethyst_shard", 2, 1, 1],
+    ["minecraft:calcite", 2, 1, 1],
+    ["minecraft:emerald", 1, 1, 1]
+  ],
+  "deep_dark": [
+    ["minecraft:sculk", 4, 1, 2],
+    ["minecraft:sculk_vein", 4, 1, 2],
+    ["minecraft:charcoal", 5, 1, 2],
+    ["minecraft:bone", 4, 1, 2],
+    ["minecraft:amethyst_shard", 3, 1, 1],
+    ["minecraft:echo_shard", 1, 1, 1],
+    ["minecraft:glow_berries", 2, 1, 2],
+    ["minecraft:deepslate", 4, 1, 2]
+  ],
+  "mushroom": [
+    ["minecraft:red_mushroom", 4, 1, 2],
+    ["minecraft:brown_mushroom", 4, 1, 2],
+    ["minecraft:mushroom_stem", 3, 1, 1],
+    ["minecraft:bone_meal", 4, 1, 2],
+    ["minecraft:mycelium", 3, 1, 1],
+    ["minecraft:mushroom_stew", 1, 1, 1],
+    ["minecraft:red_mushroom_block", 1, 1, 1],
+    ["minecraft:brown_mushroom_block", 1, 1, 1]
+  ],
+  "nether": [
+    ["minecraft:netherrack", 5, 1, 2],
+    ["minecraft:quartz", 4, 1, 2],
+    ["minecraft:gold_nugget", 3, 1, 2],
+    ["minecraft:flint", 4, 1, 1],
+    ["minecraft:magma_cream", 2, 1, 1],
+    ["minecraft:bone", 3, 1, 2],
+    ["minecraft:glowstone_dust", 2, 1, 2],
+    ["minecraft:nether_brick", 2, 1, 2]
+  ],
+  "crimson_forest": [
+    ["minecraft:crimson_fungus", 4, 1, 2],
+    ["minecraft:crimson_roots", 3, 1, 2],
+    ["minecraft:nether_wart", 3, 1, 2],
+    ["minecraft:string", 3, 1, 2],
+    ["minecraft:quartz", 3, 1, 2],
+    ["minecraft:gold_nugget", 2, 1, 2],
+    ["minecraft:leather", 2, 1, 1],
+    ["minecraft:glowstone_dust", 2, 1, 2]
+  ],
+  "warped_forest": [
+    ["minecraft:warped_fungus", 4, 1, 2],
+    ["minecraft:warped_roots", 3, 1, 2],
+    ["minecraft:twisting_vines", 3, 1, 2],
+    ["minecraft:string", 3, 1, 2],
+    ["minecraft:quartz", 3, 1, 2],
+    ["minecraft:shroomlight", 2, 1, 1],
+    ["minecraft:gold_nugget", 2, 1, 2],
+    ["minecraft:glowstone_dust", 2, 1, 2]
+  ],
+  "soul_sand_valley": [
+    ["minecraft:soul_soil", 4, 1, 2],
+    ["minecraft:soul_sand", 4, 1, 2],
+    ["minecraft:bone", 4, 1, 2],
+    ["minecraft:charcoal", 4, 1, 2],
+    ["minecraft:quartz", 3, 1, 2],
+    ["minecraft:soul_torch", 2, 1, 1],
+    ["minecraft:glowstone_dust", 2, 1, 2],
+    ["minecraft:ghast_tear", 1, 1, 1]
+  ],
+  "basalt_deltas": [
+    ["minecraft:basalt", 5, 1, 2],
+    ["minecraft:blackstone", 4, 1, 2],
+    ["minecraft:magma_cream", 2, 1, 1],
+    ["minecraft:flint", 3, 1, 1],
+    ["minecraft:gold_nugget", 2, 1, 2],
+    ["minecraft:quartz", 3, 1, 2],
+    ["minecraft:magma_block", 2, 1, 1],
+    ["minecraft:glowstone_dust", 2, 1, 2]
+  ],
+  "end": [
+    ["minecraft:end_stone", 5, 1, 2],
+    ["minecraft:chorus_fruit", 4, 1, 2],
+    ["minecraft:popped_chorus_fruit", 2, 1, 1],
+    ["minecraft:obsidian", 2, 1, 1],
+    ["minecraft:chorus_flower", 2, 1, 1],
+    ["minecraft:purpur_block", 2, 1, 1],
+    ["minecraft:amethyst_shard", 2, 1, 1],
+    ["minecraft:ender_pearl", 1, 1, 1]
+  ],
+  "village": [
+    ["minecraft:bread", 3, 1, 2],
+    ["minecraft:wheat", 4, 1, 2],
+    ["minecraft:potato", 3, 1, 2],
+    ["minecraft:carrot", 3, 1, 2],
+    ["minecraft:beetroot_seeds", 3, 1, 2],
+    ["minecraft:emerald", 1, 1, 1],
+    ["minecraft:iron_nugget", 3, 1, 2],
+    ["minecraft:paper", 2, 1, 2],
+    ["minecraft:book", 1, 1, 1],
+    ["minecraft:hay_block", 1, 1, 1]
+  ],
+  "mineshaft": [
+    ["minecraft:rail", 3, 1, 2],
+    ["minecraft:torch", 4, 1, 2],
+    ["minecraft:coal", 4, 1, 2],
+    ["minecraft:raw_iron", 2, 1, 1],
+    ["minecraft:raw_copper", 2, 1, 1],
+    ["minecraft:cobweb", 2, 1, 1],
+    ["minecraft:iron_nugget", 3, 1, 2],
+    ["minecraft:oak_planks", 3, 1, 2],
+    ["minecraft:emerald", 1, 1, 1]
+  ],
+  "stronghold": [
+    ["minecraft:stone_bricks", 4, 1, 2],
+    ["minecraft:torch", 3, 1, 2],
+    ["minecraft:coal", 3, 1, 2],
+    ["minecraft:book", 2, 1, 1],
+    ["minecraft:paper", 2, 1, 2],
+    ["minecraft:iron_ingot", 1, 1, 1],
+    ["minecraft:ender_pearl", 1, 1, 1],
+    ["minecraft:ender_eye", 1, 1, 1],
+    ["minecraft:iron_nugget", 2, 1, 2],
+    ["minecraft:lapis_lazuli", 2, 1, 1],
+    ["minecraft:cobblestone", 3, 1, 2],
+    ["minecraft:emerald", 1, 1, 1]
+  ],
+  "bookshelf": [
+    ["minecraft:book", 4, 1, 2],
+    ["minecraft:paper", 5, 1, 3],
+    ["minecraft:ink_sac", 3, 1, 2],
+    ["minecraft:leather", 2, 1, 1],
+    ["minecraft:writable_book", 1, 1, 1],
+    ["minecraft:name_tag", 1, 1, 1],
+    ["minecraft:candle", 2, 1, 2]
+  ],
+  "ancient_city": [
+    ["minecraft:sculk", 4, 1, 2],
+    ["minecraft:sculk_vein", 4, 1, 2],
+    ["minecraft:charcoal", 5, 1, 2],
+    ["minecraft:bone", 4, 1, 2],
+    ["minecraft:amethyst_shard", 3, 1, 1],
+    ["minecraft:echo_shard", 1, 1, 1],
+    ["minecraft:disc_fragment_5", 1, 1, 1],
+    ["minecraft:glow_berries", 2, 1, 2]
+  ],
+  "trail_ruins": [
+    ["minecraft:terracotta", 4, 1, 2],
+    ["minecraft:candle", 3, 1, 2],
+    ["minecraft:wheat_seeds", 4, 1, 2],
+    ["minecraft:emerald", 1, 1, 1],
+    ["minecraft:gold_nugget", 2, 1, 2],
+    ["minecraft:archer_pottery_sherd", 1, 1, 1],
+    ["minecraft:miner_pottery_sherd", 1, 1, 1],
+    ["minecraft:prize_pottery_sherd", 1, 1, 1],
+    ["minecraft:skull_pottery_sherd", 1, 1, 1],
+    ["minecraft:brush", 1, 1, 1],
+    ["minecraft:mud_bricks", 3, 1, 2],
+    ["minecraft:coarse_dirt", 3, 1, 2]
+  ],
+  "ocean_monument": [
+    ["minecraft:prismarine_shard", 5, 1, 2],
+    ["minecraft:prismarine_crystals", 3, 1, 1],
+    ["minecraft:sea_lantern", 2, 1, 1],
+    ["minecraft:ink_sac", 3, 1, 2],
+    ["minecraft:sand", 3, 1, 2],
+    ["minecraft:prismarine", 4, 1, 2],
+    ["minecraft:dark_prismarine", 2, 1, 1]
+  ],
+  "ocean_ruin": [
+    ["minecraft:clay_ball", 5, 1, 2],
+    ["minecraft:prismarine_shard", 3, 1, 2],
+    ["minecraft:bone", 3, 1, 2],
+    ["minecraft:coal", 2, 1, 2],
+    ["minecraft:sand", 4, 1, 2],
+    ["minecraft:gravel", 3, 1, 2],
+    ["minecraft:kelp", 3, 1, 2],
+    ["minecraft:emerald", 1, 1, 1],
+    ["minecraft:archer_pottery_sherd", 1, 1, 1],
+    ["minecraft:explorer_pottery_sherd", 1, 1, 1]
+  ],
+  "woodland_mansion": [
+    ["minecraft:dark_oak_planks", 4, 1, 2],
+    ["minecraft:book", 3, 1, 1],
+    ["minecraft:candle", 2, 1, 2],
+    ["minecraft:redstone", 2, 1, 2],
+    ["minecraft:iron_nugget", 2, 1, 2],
+    ["minecraft:lapis_lazuli", 2, 1, 1],
+    ["minecraft:emerald", 1, 1, 1],
+    ["minecraft:paper", 2, 1, 2],
+    ["minecraft:cookie", 2, 1, 2],
+    ["minecraft:dark_oak_sapling", 2, 1, 1]
+  ],
+  "desert_pyramid": [
+    ["minecraft:sand", 5, 1, 2],
+    ["minecraft:sandstone", 4, 1, 2],
+    ["minecraft:bone", 4, 1, 2],
+    ["minecraft:gold_nugget", 2, 1, 2],
+    ["minecraft:archer_pottery_sherd", 1, 1, 1],
+    ["minecraft:prize_pottery_sherd", 1, 1, 1],
+    ["minecraft:skull_pottery_sherd", 1, 1, 1],
+    ["minecraft:emerald", 1, 1, 1],
+    ["minecraft:gunpowder", 2, 1, 2]
+  ],
+  "jungle_temple": [
+    ["minecraft:mossy_cobblestone", 3, 1, 2],
+    ["minecraft:bamboo", 3, 1, 2],
+    ["minecraft:cocoa_beans", 3, 1, 2],
+    ["minecraft:gold_nugget", 2, 1, 2],
+    ["minecraft:emerald", 1, 1, 1],
+    ["minecraft:arrow", 2, 1, 2],
+    ["minecraft:snort_pottery_sherd", 1, 1, 1],
+    ["minecraft:melon_slice", 2, 1, 2],
+    ["minecraft:jungle_sapling", 2, 1, 1],
+    ["minecraft:vine", 2, 1, 2]
+  ],
+  "igloo": [
+    ["minecraft:snowball", 5, 1, 3],
+    ["minecraft:ice", 2, 1, 1],
+    ["minecraft:packed_ice", 1, 1, 1],
+    ["minecraft:leather", 2, 1, 1],
+    ["minecraft:cod", 2, 1, 1],
+    ["minecraft:bone", 2, 1, 2],
+    ["minecraft:white_wool", 2, 1, 1],
+    ["minecraft:torch", 2, 1, 2]
+  ],
+  "ruined_portal": [
+    ["minecraft:obsidian", 2, 1, 1],
+    ["minecraft:crying_obsidian", 2, 1, 1],
+    ["minecraft:flint", 3, 1, 1],
+    ["minecraft:gold_nugget", 2, 1, 2],
+    ["minecraft:fire_charge", 1, 1, 1],
+    ["minecraft:magma_cream", 1, 1, 1],
+    ["minecraft:bone", 2, 1, 2],
+    ["minecraft:netherrack", 3, 1, 2],
+    ["minecraft:stone", 3, 1, 2]
+  ],
+  "shipwreck": [
+    ["minecraft:oak_planks", 4, 1, 2],
+    ["minecraft:iron_nugget", 3, 1, 2],
+    ["minecraft:string", 2, 1, 2],
+    ["minecraft:leather", 2, 1, 1],
+    ["minecraft:coal", 3, 1, 2],
+    ["minecraft:emerald", 1, 1, 1],
+    ["minecraft:paper", 2, 1, 2],
+    ["minecraft:sand", 3, 1, 2],
+    ["minecraft:gravel", 3, 1, 2]
+  ],
+  "nether_fortress": [
+    ["minecraft:nether_bricks", 4, 1, 2],
+    ["minecraft:coal", 3, 1, 2],
+    ["minecraft:bone", 3, 1, 2],
+    ["minecraft:blaze_powder", 1, 1, 1],
+    ["minecraft:gold_nugget", 2, 1, 2],
+    ["minecraft:nether_wart", 2, 1, 2],
+    ["minecraft:magma_cream", 1, 1, 1],
+    ["minecraft:netherrack", 4, 1, 2]
+  ],
+  "bastion": [
+    ["minecraft:blackstone", 4, 1, 2],
+    ["minecraft:gold_nugget", 4, 1, 2],
+    ["minecraft:gold_ingot", 1, 1, 1],
+    ["minecraft:gilded_blackstone", 2, 1, 1],
+    ["minecraft:arrow", 2, 1, 2],
+    ["minecraft:string", 2, 1, 2],
+    ["minecraft:magma_cream", 2, 1, 1],
+    ["minecraft:netherrack", 3, 1, 2],
+    ["minecraft:leather", 2, 1, 1]
+  ],
+  "end_city": [
+    ["minecraft:end_stone", 4, 1, 2],
+    ["minecraft:purpur_block", 3, 1, 2],
+    ["minecraft:chorus_fruit", 3, 1, 2],
+    ["minecraft:popped_chorus_fruit", 3, 1, 1],
+    ["minecraft:obsidian", 2, 1, 1],
+    ["minecraft:amethyst_shard", 2, 1, 1],
+    ["minecraft:ender_pearl", 1, 1, 1],
+    ["minecraft:iron_nugget", 2, 1, 2]
+  ],
+  "swamp_hut": [
+    ["minecraft:redstone", 3, 1, 2],
+    ["minecraft:glowstone_dust", 2, 1, 2],
+    ["minecraft:sugar", 3, 1, 2],
+    ["minecraft:spider_eye", 2, 1, 1],
+    ["minecraft:gunpowder", 2, 1, 2],
+    ["minecraft:stick", 3, 1, 2],
+    ["minecraft:glass_bottle", 2, 1, 2],
+    ["minecraft:brown_mushroom", 2, 1, 2]
+  ],
+  "pillager_outpost": [
+    ["minecraft:dark_oak_planks", 3, 1, 2],
+    ["minecraft:arrow", 3, 1, 2],
+    ["minecraft:potato", 3, 1, 2],
+    ["minecraft:emerald", 1, 1, 1],
+    ["minecraft:iron_nugget", 2, 1, 2],
+    ["minecraft:string", 2, 1, 2],
+    ["minecraft:wheat", 3, 1, 2],
+    ["minecraft:carrot", 2, 1, 2],
+    ["minecraft:dark_oak_log", 2, 1, 1],
+    ["minecraft:dark_oak_sapling", 2, 1, 1]
+  ],
+  "trial_chambers": [
+    ["minecraft:copper_ingot", 3, 1, 2],
+    ["minecraft:amethyst_shard", 2, 1, 1],
+    ["minecraft:stone_bricks", 3, 1, 2],
+    ["minecraft:emerald", 1, 1, 1],
+    ["minecraft:copper_block", 1, 1, 1],
+    ["minecraft:honeycomb", 2, 1, 1],
+    ["minecraft:iron_nugget", 2, 1, 2],
+    ["minecraft:tuff", 3, 1, 2],
+    ["minecraft:coal", 3, 1, 2],
+    ["minecraft:wind_charge", 3, 1, 3],
+    ["minecraft:heavy_core", 1, 1, 1],
+    ["minecraft:breeze_rod", 2, 1, 2],
+    ["minecraft:ominous_bottle", 1, 1, 1]
+  ],
+  "nether_fossil": [
+    ["minecraft:bone", 5, 1, 2],
+    ["minecraft:bone_meal", 3, 1, 2],
+    ["minecraft:coal", 3, 1, 2],
+    ["minecraft:quartz", 2, 1, 2],
+    ["minecraft:flint", 2, 1, 1],
+    ["minecraft:charcoal", 2, 1, 2],
+    ["minecraft:netherrack", 3, 1, 2]
+  ],
+  "ore_coal": [
+    ["minecraft:coal", 1, 4, 8]
+  ],
+  "ore_iron": [
+    ["minecraft:raw_iron", 1, 3, 6]
+  ],
+  "ore_copper": [
+    ["minecraft:raw_copper", 1, 4, 8]
+  ],
+  "ore_gold": [
+    ["minecraft:raw_gold", 1, 2, 4]
+  ],
+  "ore_redstone": [
+    ["minecraft:redstone", 1, 5, 8]
+  ],
+  "ore_emerald": [
+    ["minecraft:emerald", 1, 2, 4]
+  ],
+  "ore_lapis": [
+    ["minecraft:lapis_lazuli", 1, 5, 8]
+  ],
+  "ore_diamond": [
+    ["minecraft:diamond", 1, 1, 3]
+  ],
+  "ore_nether_gold": [
+    ["minecraft:raw_gold", 1, 2, 4]
+  ],
+  "ore_quartz": [
+    ["minecraft:quartz", 1, 4, 8]
+  ],
+  "ore_ancient_debris": [
+    ["minecraft:netherite_scrap", 1, 1, 2]
+  ],
+  "entity_generic": [
+    ["minecraft:dirt", 3, 1, 2],
+    ["minecraft:gravel", 3, 1, 2],
+    ["minecraft:bone", 4, 1, 2],
+    ["minecraft:stick", 3, 1, 2],
+    ["minecraft:flint", 3, 1, 1],
+    ["minecraft:clay_ball", 2, 1, 2],
+    ["minecraft:coal", 1, 1, 1],
+    ["minecraft:emerald", 1, 1, 1]
+  ],
+  "entity_zombie": [
+    ["minecraft:rotten_flesh", 6, 1, 3],
+    ["minecraft:bone", 4, 1, 2],
+    ["minecraft:iron_nugget", 3, 1, 2],
+    ["minecraft:potato", 2, 1, 1],
+    ["minecraft:carrot", 2, 1, 1],
+    ["minecraft:clay_ball", 2, 1, 2],
+    ["minecraft:iron_ingot", 1, 1, 1],
+    ["minecraft:golden_carrot", 1, 1, 1]
+  ],
+  "entity_skeleton": [
+    ["minecraft:bone", 6, 1, 3],
+    ["minecraft:arrow", 4, 1, 3],
+    ["minecraft:flint", 3, 1, 2],
+    ["minecraft:string", 2, 1, 2],
+    ["minecraft:coal", 2, 1, 1],
+    ["minecraft:bone_meal", 2, 1, 2],
+    ["minecraft:bone_block", 1, 1, 1]
+  ],
+  "entity_wither_skeleton": [
+    ["minecraft:bone", 6, 1, 3],
+    ["minecraft:coal", 4, 1, 2],
+    ["minecraft:blackstone", 3, 1, 2],
+    ["minecraft:charcoal", 2, 1, 2],
+    ["minecraft:wither_skeleton_skull", 1, 1, 1]
+  ],
+  "entity_creeper": [
+    ["minecraft:gunpowder", 6, 1, 3],
+    ["minecraft:coal", 3, 1, 2],
+    ["minecraft:flint", 2, 1, 2],
+    ["minecraft:tnt", 1, 1, 1],
+    ["minecraft:creeper_head", 1, 1, 1]
+  ],
+  "entity_spider": [
+    ["minecraft:string", 6, 1, 3],
+    ["minecraft:spider_eye", 4, 1, 2],
+    ["minecraft:cobweb", 3, 1, 2],
+    ["minecraft:fermented_spider_eye", 1, 1, 1],
+    ["minecraft:emerald", 1, 1, 1]
+  ],
+  "entity_enderman": [
+    ["minecraft:ender_pearl", 4, 1, 2],
+    ["minecraft:chorus_fruit", 4, 1, 2],
+    ["minecraft:end_stone", 3, 1, 2],
+    ["minecraft:amethyst_shard", 2, 1, 2],
+    ["minecraft:ender_eye", 1, 1, 1]
+  ],
+  "entity_villager": [
+    ["minecraft:book", 4, 1, 2],
+    ["minecraft:paper", 4, 1, 3],
+    ["minecraft:emerald", 3, 1, 2],
+    ["minecraft:bread", 3, 1, 2],
+    ["minecraft:iron_nugget", 2, 1, 2],
+    ["minecraft:name_tag", 1, 1, 1]
+  ],
+  "entity_illager": [
+    ["minecraft:emerald", 4, 1, 2],
+    ["minecraft:arrow", 3, 1, 3],
+    ["minecraft:iron_axe", 1, 1, 1],
+    ["minecraft:dark_oak_planks", 3, 1, 2],
+    ["minecraft:ominous_bottle", 1, 1, 1],
+    ["minecraft:totem_of_undying", 1, 1, 1]
+  ],
+  "entity_witch": [
+    ["minecraft:redstone", 4, 1, 2],
+    ["minecraft:glowstone_dust", 3, 1, 2],
+    ["minecraft:sugar", 3, 1, 2],
+    ["minecraft:spider_eye", 2, 1, 1],
+    ["minecraft:glass_bottle", 3, 1, 2],
+    ["minecraft:gunpowder", 2, 1, 2],
+    ["minecraft:experience_bottle", 1, 1, 1]
+  ],
+  "entity_piglin": [
+    ["minecraft:gold_nugget", 5, 1, 3],
+    ["minecraft:gold_ingot", 3, 1, 2],
+    ["minecraft:raw_gold", 2, 1, 2],
+    ["minecraft:leather", 2, 1, 2],
+    ["minecraft:fire_charge", 1, 1, 1],
+    ["minecraft:gold_block", 1, 1, 1]
+  ],
+  "entity_nether": [
+    ["minecraft:netherrack", 5, 1, 2],
+    ["minecraft:quartz", 4, 1, 2],
+    ["minecraft:gold_nugget", 3, 1, 2],
+    ["minecraft:magma_cream", 2, 1, 1],
+    ["minecraft:blaze_powder", 2, 1, 1],
+    ["minecraft:glowstone_dust", 3, 1, 2],
+    ["minecraft:ghast_tear", 1, 1, 1]
+  ],
+  "entity_animal": [
+    ["minecraft:leather", 4, 1, 2],
+    ["minecraft:feather", 4, 1, 3],
+    ["minecraft:wheat", 4, 1, 3],
+    ["minecraft:wheat_seeds", 3, 1, 2],
+    ["minecraft:white_wool", 3, 1, 2],
+    ["minecraft:carrot", 2, 1, 2],
+    ["minecraft:egg", 2, 1, 1],
+    ["minecraft:golden_apple", 1, 1, 1]
+  ],
+  "entity_aquatic": [
+    ["minecraft:cod", 4, 1, 2],
+    ["minecraft:salmon", 4, 1, 2],
+    ["minecraft:tropical_fish", 3, 1, 2],
+    ["minecraft:kelp", 3, 1, 2],
+    ["minecraft:ink_sac", 2, 1, 2],
+    ["minecraft:prismarine_shard", 2, 1, 2],
+    ["minecraft:nautilus_shell", 1, 1, 1]
+  ],
+  "entity_arthropod": [
+    ["minecraft:string", 4, 1, 3],
+    ["minecraft:spider_eye", 3, 1, 2],
+    ["minecraft:honeycomb", 3, 1, 2],
+    ["minecraft:glowstone_dust", 2, 1, 2],
+    ["minecraft:slime_ball", 1, 1, 1],
+    ["minecraft:emerald", 1, 1, 1]
+  ],
+  "entity_golem": [
+    ["minecraft:iron_ingot", 4, 1, 2],
+    ["minecraft:poppy", 4, 1, 2],
+    ["minecraft:snowball", 4, 1, 3],
+    ["minecraft:pumpkin", 2, 1, 2],
+    ["minecraft:iron_block", 1, 1, 1]
+  ]
+}

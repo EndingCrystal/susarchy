@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "group": "sus_brushes",
+  "pattern": [
+    "MMM",
+    "MBM",
+    "MMM"
+  ],
+  "key": {
+    "M": {
+      "item": "minecraft:flint"
+    },
+    "B": {
+      "item": "susarchy:stone_brush"
+    }
+  },
+  "result": {
+    "id": "susarchy:flint_brush",
+    "count": 1
+  }
+}

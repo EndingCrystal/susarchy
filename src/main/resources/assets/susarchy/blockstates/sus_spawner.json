@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "susarchy:block/sus_spawner"
+    }
+  }
+}

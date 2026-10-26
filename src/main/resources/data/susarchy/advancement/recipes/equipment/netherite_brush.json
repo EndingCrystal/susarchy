@@ -1,0 +1,32 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_the_recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "susarchy:netherite_brush"
+      }
+    },
+    "has_diamond_brush": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "susarchy:diamond_brush"
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "has_the_recipe",
+      "has_diamond_brush"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "susarchy:netherite_brush"
+    ]
+  }
+}

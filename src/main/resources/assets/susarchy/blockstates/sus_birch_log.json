@@ -1,0 +1,52 @@
+{
+  "variants": {
+    "axis=x,dusted=0": {
+      "model": "susarchy:block/sus_birch_log",
+      "x": 90,
+      "y": 90
+    },
+    "axis=y,dusted=0": {
+      "model": "susarchy:block/sus_birch_log"
+    },
+    "axis=z,dusted=0": {
+      "model": "susarchy:block/sus_birch_log",
+      "x": 90
+    },
+    "axis=x,dusted=1": {
+      "model": "susarchy:block/sus_birch_log_1",
+      "x": 90,
+      "y": 90
+    },
+    "axis=y,dusted=1": {
+      "model": "susarchy:block/sus_birch_log_1"
+    },
+    "axis=z,dusted=1": {
+      "model": "susarchy:block/sus_birch_log_1",
+      "x": 90
+    },
+    "axis=x,dusted=2": {
+      "model": "susarchy:block/sus_birch_log_2",
+      "x": 90,
+      "y": 90
+    },
+    "axis=y,dusted=2": {
+      "model": "susarchy:block/sus_birch_log_2"
+    },
+    "axis=z,dusted=2": {
+      "model": "susarchy:block/sus_birch_log_2",
+      "x": 90
+    },
+    "axis=x,dusted=3": {
+      "model": "susarchy:block/sus_birch_log_3",
+      "x": 90,
+      "y": 90
+    },
+    "axis=y,dusted=3": {
+      "model": "susarchy:block/sus_birch_log_3"
+    },
+    "axis=z,dusted=3": {
+      "model": "susarchy:block/sus_birch_log_3",
+      "x": 90
+    }
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_all_inner_faces",
+  "textures": {
+    "all": "susarchy:block/sus_spawner"
+  },
+  "render_type": "minecraft:cutout"
+}

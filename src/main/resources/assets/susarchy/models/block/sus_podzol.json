@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/cube_bottom_top",
+  "textures": {
+    "bottom": "susarchy:block/sus_podzol_bottom",
+    "side": "susarchy:block/sus_podzol_side",
+    "top": "susarchy:block/sus_podzol_top"
+  }
+}

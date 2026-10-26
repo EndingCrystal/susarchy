@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "group": "sus_brushes",
+  "pattern": [
+    "MMM",
+    "MBM",
+    "MMM"
+  ],
+  "key": {
+    "M": {
+      "item": "minecraft:diamond"
+    },
+    "B": {
+      "item": "susarchy:gold_brush"
+    }
+  },
+  "result": {
+    "id": "susarchy:diamond_brush",
+    "count": 1
+  }
+}

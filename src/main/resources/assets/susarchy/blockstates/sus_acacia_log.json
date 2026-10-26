@@ -1,0 +1,52 @@
+{
+  "variants": {
+    "axis=x,dusted=0": {
+      "model": "susarchy:block/sus_acacia_log",
+      "x": 90,
+      "y": 90
+    },
+    "axis=y,dusted=0": {
+      "model": "susarchy:block/sus_acacia_log"
+    },
+    "axis=z,dusted=0": {
+      "model": "susarchy:block/sus_acacia_log",
+      "x": 90
+    },
+    "axis=x,dusted=1": {
+      "model": "susarchy:block/sus_acacia_log",
+      "x": 90,
+      "y": 90
+    },
+    "axis=y,dusted=1": {
+      "model": "susarchy:block/sus_acacia_log"
+    },
+    "axis=z,dusted=1": {
+      "model": "susarchy:block/sus_acacia_log",
+      "x": 90
+    },
+    "axis=x,dusted=2": {
+      "model": "susarchy:block/sus_acacia_log",
+      "x": 90,
+      "y": 90
+    },
+    "axis=y,dusted=2": {
+      "model": "susarchy:block/sus_acacia_log"
+    },
+    "axis=z,dusted=2": {
+      "model": "susarchy:block/sus_acacia_log",
+      "x": 90
+    },
+    "axis=x,dusted=3": {
+      "model": "susarchy:block/sus_acacia_log",
+      "x": 90,
+      "y": 90
+    },
+    "axis=y,dusted=3": {
+      "model": "susarchy:block/sus_acacia_log"
+    },
+    "axis=z,dusted=3": {
+      "model": "susarchy:block/sus_acacia_log",
+      "x": 90
+    }
+  }
+}
